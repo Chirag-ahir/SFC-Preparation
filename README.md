@@ -37,3 +37,7 @@ But one user can be assigned to multiple permission sets.
 
 Is it possible to delete a user from SFC completely?<br>
 You can not delete a user completely at all from SFC, It's not allowed to delete a user from SFC in any org. But you can revoke the access of user by making that user inactive (Setup > Users > User > Uncheck active box)
+
+What is difference between Deactivate user and Freeze user?
+When you deactivate user the license associated with that user can be assigned to someone else but if you freeze user the license associated to that user will remain with him. 
+
