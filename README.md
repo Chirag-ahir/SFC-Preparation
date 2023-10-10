@@ -34,3 +34,6 @@ No user can restrict the acess of user that he has got from profile using permis
 
 One user only assign to one profile, <br>
 But one user can be assigned to multiple permission sets.
+
+Is it possible to delete a user from SFC completely?<br>
+You can not delete a user completely at all from SFC, It's not allowed to delete a user from SFC in any org. But you can revoke the access of user by making that user inactive (Setup > Users > User > Uncheck active box)
