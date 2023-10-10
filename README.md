@@ -3,6 +3,13 @@
 What is salesforce?<br>
 Salesforce is a cloud-based CRM platform that helps business to manage their sales, marketing and customer service activities. 
 
+What is object?<br>
+Object in salesforc represents a entity which stores particular type of information in our database. 
+
+[Table in DB represent as a object for SFC]
+[Column in table represent as a field for SFC]
+[Row is table represnt as a record for SFC]
+
 What is validation rules?<br>
 Validation rule used to validate data when entering data into salesforce.
 
