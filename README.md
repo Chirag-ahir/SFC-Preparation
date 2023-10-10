@@ -10,6 +10,19 @@ Object in salesforc represents a entity which stores particular type of informat
 [Column in table represent as a field for SFC]
 [Row is table represnt as a record for SFC]
 
+What is a standard object?<br>
+Standard objects are objects that are included with Salesforce. Common business objects like Account, Contact, Lead, and Opportunity are all standard objects.
+
+What is a custom object?<br>
+Custom objects are objects that you create to store information that’s specific to your company or industry. For DreamHouse, D’Angelo wants to build a custom Property object that stores information about the homes his company is selling.
+
+What is Schema Builder?
+Schema Builder is a tool that lets you visualise and edit your data model. It’s useful for designing and understanding complex data models like the company’s employees and all sales (Setup > Schema Builder)
+
+What are two ways to import data into SFC?<br>
+Data import wizard (Setup > Data import wizard - Supports <= 50000 Records)<br>
+Data loader (Client application - supports 5M+ data)
+
 What is validation rules?<br>
 Validation rule used to validate data when entering data into salesforce.
 
@@ -45,6 +58,6 @@ But one user can be assigned to multiple permission sets.
 Is it possible to delete a user from SFC completely?<br>
 You can not delete a user completely at all from SFC, It's not allowed to delete a user from SFC in any org. But you can revoke the access of user by making that user inactive (Setup > Users > User > Uncheck active box)
 
-What is difference between Deactivate user and Freeze user?
+What is difference between Deactivate user and Freeze user?<br>
 When you deactivate user the license associated with that user can be assigned to someone else but if you freeze user the license associated to that user will remain with him. 
 
