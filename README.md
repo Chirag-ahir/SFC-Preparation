@@ -18,11 +18,16 @@ User license defines which type of functionality user can access in salesforce.
 What is junction object?<br>
 Any object which is got two master-detail relationship field on it is called as a junction object.
 
+What is page layout?
+Page layouts control the layout and organization of buttons, fields, s-controls, Visualforce, custom links, and related lists on object record pages. It controls details page and edit page. 
+
+Modify page layout: https://youtu.be/gHHXE3FcxJM?si=J-hAfYB5odXILk5U&t=277  
+
 What is Profile?<br>
-Profile is a collection of settings and permissions which define what user will be able to see and what user will be able to do.
+Profile is collection of settings and permission which define what user will be able to see and what user will be able to do. Two types of profile in salesforce: Standard Profile and Custom Profile.
 
 What is Permission sets?<br>
-Permission sets are collection of settings and permissions which give a user additional access from the access that they have already got from their profile.
+Permission sets are collection of setting and permissions which give a user additional access from the access that they have already got from their profile.
 
 Can user restrict the access of user that he got from profile using permission sets?<br>
 No user can restrict the acess of user that he has got from profile using permission set. permission set used for give additional acess to user.
