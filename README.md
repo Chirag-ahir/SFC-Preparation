@@ -24,4 +24,8 @@ Profile is a collection of settings and permissions which define what user will 
 What is Permission sets?<br>
 Permission sets are collection of settings and permissions which give a user additional access from the access that they have already got from their profile.
 
+Can user restrict the access of user that he got from profile using permission sets?<br>
+No user can restrict the acess of user that he has got from profile using permission set. permission set used for give additional acess to user.
 
+One user only assign to one profile, <br>
+But one user can be assigned to multiple permission sets.
