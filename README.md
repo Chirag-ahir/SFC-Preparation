@@ -107,6 +107,8 @@ Shae record to another role using Sharing rule (Based on record owner): https://
 What is lightning app builder?<br>
 The Lightning App Builder is a point-and-click tool that makes it easy to create custom pages for the Salesforce mobile app and Lightning Experience, giving your users what they need all in one place. 
 
+What is alias is SFC?<br>
+An alias is a short name to identify the user on list pages, reports, or other places where their entire name doesn't fit. 
 
 
 
