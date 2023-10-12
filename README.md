@@ -61,3 +61,28 @@ You can not delete a user completely at all from SFC, It's not allowed to delete
 What is difference between Deactivate user and Freeze user?<br>
 When you deactivate user the license associated with that user can be assigned to someone else but if you freeze user the license associated to that user will remain with him. 
 
+What are different levels of Data level security?<br>
+1. Organization level security<br>
+    - User management (Setup > Users > Particular user > Active checkbox)<br>
+    - Password policies (2 level)<br>
+        - Organization level (Setup > Password policies)<br>
+        - Profile level (Setup > Profiles > Particular profile > Password policies > Edit)<br>
+    - Restricting access by location/IP (2 level) <br>
+        - Organization level (Setup > Network Access > New) Applies to all users<br>
+        - Profile level (Setup > Profiles > Particular profile > Network Access)<br>
+    - Restricting access by time (Applies to profiles only: Setup > Profiles > Particular Profile > Login Hours)<br>
+2. Object level security (CRUD) (2 level)
+    - Profile level (Setup > Profiles > ParticularProfile > Custom Object Permission)<br>
+    - Permission sets (Setup > PermissionSet > ParticularProfile > Object Settings)<br>
+3. Field level security (read Only and Visible)<br>
+    - Profile level (Setup > Profile > Particular profile > Field level security)<br>
+    - Permission sets (Setup > Profile > Particular permission set > Object setting)<br>
+    - “Field Accessibility” is a one place to set security for all profile at once<br>
+4. Record level security: Three permission: (Public read/write + Public read only + Private)<br>
+    - Four level<br>
+    - Organization wide default (Baseline level of access)<br>
+    - Role hierarchy (E.g., Manager will have access to all VP)<br>
+    - Sharing rules (Automatically share the rule)<br>
+    - Manual sharing (Sharing rules manually)<br>
+
+
