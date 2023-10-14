@@ -113,5 +113,8 @@ An alias is a short name to identify the user on list pages, reports, or other p
 What is leads in SFC?<br>
 Leads are people who are interested in your product and service.
 
+What is campaign?<br>
+It is a collection of Leads and Contacts who have been introduced to specific advertising messages.
+
 
 
