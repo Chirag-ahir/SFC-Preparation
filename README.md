@@ -138,3 +138,21 @@ In product you are storing information of your service and product.
 
 What is opportunity line item?<br>
 When we add a product to Opportunity it is called Opportunity Line Item which you use during your sales.
+
+========================================================SFMC=================================================<br>
+
+What are different email terminologies used in SFMC:<br>
+We can check status of the email in Tracking tab, which allows her to view:<br>
+Sent - Total number of emails sent.<br>
+Delivered - Total number of emails delivered.<br>
+Deliverability Rate - The percentage of emails that were delivered compared to the number that bounced (soft and hard).<br>
+Total Soft Bounces - The number of emails that were recognized by recipients’ mail servers but were returned to the sender because their mailboxes were full or the mail servers were temporarily unavailable.<br>
+Total Hard Bounces - Number of emails that permanently bounced back to the sender because the addresses were invalid.<br>
+Email Opens - The total number of times subscribers open an email where the images render.<br>
+Open Rate - The percentage of emails that were opened (images rendered) compared to the number that were delivered.<br>
+Clicks - The number of subscribers who clicked on a link in the email.<br>
+Click Rate - The percentage of subscribers who clicked on a link compared to the number of emails delivered<br>
+Unsubscribes - Total number of subscribers who clicked unsubscribe.<br>
+Unsubscribe Rate - Percentage of subscribers who clicked unsubscribe compared to total number of emails delivered
+
+
