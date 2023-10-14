@@ -110,6 +110,8 @@ The Lightning App Builder is a point-and-click tool that makes it easy to create
 What is alias is SFC?<br>
 An alias is a short name to identify the user on list pages, reports, or other places where their entire name doesn't fit. 
 
+What is leads in SFC?<br>
+Leads are people who are interested in your product and service.
 
 
 
