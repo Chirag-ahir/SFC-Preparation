@@ -135,3 +135,6 @@ Opportunity records track details about deals, including which accounts they're 
 
 What is product object?<br>
 In product you are storing information of your service and product. 
+
+What is opportunity line item?<br>
+When we add a product to Opportunity it is called Opportunity Line Item which you use during your sales.
