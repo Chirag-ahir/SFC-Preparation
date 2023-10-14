@@ -129,3 +129,6 @@ An individual's information only store in one of the 4 object:
 2. Leads
 3. Accounts
 4. Users
+
+What is opportunity?<br>
+Opportunity records track details about deals, including which accounts they're for, who the players are, and the amount of potential sales.
