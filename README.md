@@ -122,3 +122,10 @@ Account is a standard object where we storing customer, prospect and partners da
 customer: customer is the individual who purchases our product<br>
 prospect: prospect is a lead who has been qualified by a sales team to match a company's ideal customer profile<br>
 partner: partners are the companies with which you collaborate to close your sales deals. 
+users: the individual who works at our place to run our business
+
+An individual's information only store in one of the 4 object: 
+1. Contacts
+2. Leads
+3. Accounts
+4. Users
