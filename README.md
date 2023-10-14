@@ -155,4 +155,10 @@ Click Rate - The percentage of subscribers who clicked on a link compared to the
 Unsubscribes - Total number of subscribers who clicked unsubscribe.<br>
 Unsubscribe Rate - Percentage of subscribers who clicked unsubscribe compared to total number of emails delivered
 
+What is Transactional messages?<br>
+Transactional messages are sent in response to a user’s interaction with your website or business or service. Examples include shipping notifications, account alerts, and identity validation. 
+
+What are promotional messages?<br>
+Promotional messages are sent to a list of subscribers who have opted-in to receive promotional/marketing-type content from your brand. Examples include newsletters, sale notifications.
+
 
