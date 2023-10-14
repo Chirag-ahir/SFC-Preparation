@@ -116,5 +116,9 @@ Leads are people who are interested in your product and service.
 What is campaign?<br>
 It is a collection of Leads and Contacts who have been introduced to specific advertising messages.
 
+What is Account?<br>
+Account is a standard object where we storing customer, prospect and partners data. Acccount contains data of leads and contacts. 
 
-
+customer: customer is the individual who purchases our product<br>
+prospect: prospect is a lead who has been qualified by a sales team to match a company's ideal customer profile<br>
+partner: partners are the companies with which you collaborate to close your sales deals. 
