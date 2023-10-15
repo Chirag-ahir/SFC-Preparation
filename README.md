@@ -170,4 +170,6 @@ What is the difference between B2B and B2C?<br>
 
 ![image](https://github.com/Chirag-ahir/SFC-Preparation/assets/72852725/7d2c1336-6db8-47b1-925e-459e626a11db)
 
-
+What are two data storage options available in SFMC?<br>
+Data extensions (Available for all channels)<br>
+Subscriber list (Available in email)
