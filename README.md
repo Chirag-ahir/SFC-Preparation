@@ -173,3 +173,6 @@ What is the difference between B2B and B2C?<br>
 What are two data storage options available in SFMC?<br>
 Data extensions (Available for all channels)<br>
 Subscriber list (Available in email)
+
+What is Data Extension?<br>
+A data extension is a table within the application database that contains your data.
