@@ -176,3 +176,6 @@ Subscriber list (Available in email)
 
 What is Data Extension?<br>
 A data extension is a table within the application database that contains your data.
+
+What is data filter?<br>
+A data filter is a group of criteria that segments a list or data extension.
