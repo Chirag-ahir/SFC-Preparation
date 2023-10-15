@@ -179,3 +179,6 @@ A data extension is a table within the application database that contains your d
 
 What is data filter?<br>
 A data filter is a group of criteria that segments a list or data extension.
+
+What is group?<br>
+A group is a subset of subscribers you’ve taken from a list. 
