@@ -161,4 +161,9 @@ Transactional messages are sent in response to a user’s interaction with your 
 What are promotional messages?<br>
 Promotional messages are sent to a list of subscribers who have opted-in to receive promotional/marketing-type content from your brand. Examples include newsletters, sale notifications.
 
+What is difference between Sales and Marketing?<br>
+Marketing comes before the sales
+![image](https://github.com/Chirag-ahir/SFC-Preparation/assets/72852725/5e4bfc80-9273-4e48-98e5-e2629db75641)
+
+
 
