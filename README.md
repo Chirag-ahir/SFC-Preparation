@@ -182,3 +182,7 @@ A data filter is a group of criteria that segments a list or data extension.
 
 What is group?<br>
 A group is a subset of subscribers you’ve taken from a list. 
+
+What is difference between list and data extension in SFMC?<br>
+Lists: A collection of subscribers that receive specific communications. These contain < 500,000 subscribers, offer slower import speed, and a limited number of subscriber attributes.<br>
+Data extensions: A table within the database that contains your data. You could use a data extension to store subscriber data (like lists) or any other relational data. These can hold >500,000 subscribers, offer faster import speed, and can be used for SOAP and REST APIs.
