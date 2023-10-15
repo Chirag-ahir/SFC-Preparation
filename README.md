@@ -163,7 +163,11 @@ Promotional messages are sent to a list of subscribers who have opted-in to rece
 
 What is difference between Sales and Marketing?<br>
 Marketing comes before the sales<br>
+
 ![image](https://github.com/Chirag-ahir/SFC-Preparation/assets/72852725/5e4bfc80-9273-4e48-98e5-e2629db75641)
 
+What is the difference between B2B and B2C?<br>
+
+![image](https://github.com/Chirag-ahir/SFC-Preparation/assets/72852725/7d2c1336-6db8-47b1-925e-459e626a11db)
 
 
