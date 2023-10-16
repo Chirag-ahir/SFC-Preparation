@@ -104,6 +104,8 @@ Set OWD Record security: https://youtu.be/19f59sq6S6I?si=qg_ExhfLgPKxPgrV&t=1096
 Revoke access of object shared with role hierarchy: https://youtu.be/Za3HvlSuTCs?si=n3pK9kgKBUjD6FwT&t=1353 <br>
 Shae record to another role using Sharing rule (Based on record owner): https://youtu.be/OphMKt86TMY?si=Gl9gVbzi1GzCwiWs&t=2021 <br>
 
+Data Security playlist in SFC: https://www.youtube.com/watch?v=hqTJ_v7ZzdA&list=PL-gW8Fj5TGrp3d-f6P-58aRgyuKKZdhCp 
+
 What is lightning app builder?<br>
 The Lightning App Builder is a point-and-click tool that makes it easy to create custom pages for the Salesforce mobile app and Lightning Experience, giving your users what they need all in one place. 
 
@@ -112,6 +114,8 @@ An alias is a short name to identify the user on list pages, reports, or other p
 
 What is leads in SFC?<br>
 Leads are people who are interested in your product and service.
+
+Create new lead in SFC: https://youtu.be/IIpFA3mMR8s?si=D__GcQhUZYQx1fxU&t=2 
 
 What is campaign?<br>
 It is a collection of Leads and Contacts who have been introduced to specific advertising messages.
@@ -187,6 +191,9 @@ What is difference between list and data extension in SFMC?<br>
 Lists: A collection of subscribers that receive specific communications. These contain < 500,000 subscribers, offer slower import speed, and a limited number of subscriber attributes.<br>
 Data extensions: A table within the database that contains your data. You could use a data extension to store subscriber data (like lists) or any other relational data. These can hold >500,000 subscribers, offer faster import speed, and can be used for SOAP and REST APIs.
 
+What is sales cloud?<br>
+Salesforce Sales Cloud is a customer relationship management (CRM) platform designed to support sales, marketing and customer support in both business-to-business (B2B) and business-to-customer (B2C) contexts.
+
 SFMC Definitions:<br>
 Agile development: A project methodology used to manage software development work. Agile methodology focuses on completing small, short-term tasks versus a waterfall approach that focuses on a large-scale project.<br>
 Bug: An identified error or flaw found in our product that is being tracked for status and completion.<br>
@@ -204,4 +211,7 @@ Pilot features: A feature offered to a limited number of customers who have sign
 Sprint: A short time period (often 2 weeks) when product teams work on a specific list of tasks.<br>
 Stack: The database group that your Marketing Cloud account is part of. Your stack and specific database (called an instance) impacts your account’s release date.<br>
 Unit test: A QA test to ensure an individual update meets requirements and follows expected behavior.
+
+What is partner in SFC?<br>
+Partners are the companies with which you collaborate to close your sales deals
 
