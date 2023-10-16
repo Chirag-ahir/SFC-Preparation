@@ -186,3 +186,22 @@ A group is a subset of subscribers you’ve taken from a list.
 What is difference between list and data extension in SFMC?<br>
 Lists: A collection of subscribers that receive specific communications. These contain < 500,000 subscribers, offer slower import speed, and a limited number of subscriber attributes.<br>
 Data extensions: A table within the database that contains your data. You could use a data extension to store subscriber data (like lists) or any other relational data. These can hold >500,000 subscribers, offer faster import speed, and can be used for SOAP and REST APIs.
+
+SFMC Definitions:<br>
+Agile development: A project methodology used to manage software development work. Agile methodology focuses on completing small, short-term tasks versus a waterfall approach that focuses on a large-scale project.<br>
+Bug: An identified error or flaw found in our product that is being tracked for status and completion.<br>
+Downtime: The amount of time a product is unavailable.<br>
+Emergency release: A product update that occurs when an update needs to be made immediately to fix a bug that is impacting security or performance.<br>
+Feature: A change made to Marketing Cloud that adds new functionality or improves current functionality.<br>
+Freeze: A cut-off date for changes. Feature freeze relates to what will be added to a release and a release freeze refers to the date no additional changes can be made to an upcoming release.<br>
+Functional test: A Quality Assurance (QA) test that evaluates a group of functional requirements.<br>
+GA: Denotes a product feature that is generally available (GA) to all customers.<br>
+Integration test: A QA test that tests if different parts of the system work together after updates.<br>
+Known issues: Issues discovered and logged by members of the Trailblazer Community. These issues are monitored and tracked by Salesforce product teams as bugs.<br>
+Lifecycle: The cadence of product improvements and fixes.<br>
+Patch release: A weekly release that focuses on fixing bugs and known issues.<br>
+Pilot features: A feature offered to a limited number of customers who have signed up to test that feature.<br>
+Sprint: A short time period (often 2 weeks) when product teams work on a specific list of tasks.<br>
+Stack: The database group that your Marketing Cloud account is part of. Your stack and specific database (called an instance) impacts your account’s release date.<br>
+Unit test: A QA test to ensure an individual update meets requirements and follows expected behavior.
+
