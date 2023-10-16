@@ -139,7 +139,7 @@ In product you are storing information of your service and product.
 What is opportunity line item?<br>
 When we add a product to Opportunity it is called Opportunity Line Item which you use during your sales.
 
-========================================================SFMC=================================================<br>
+==============================================SFMC==============================================<br>
 
 What are different email terminologies used in SFMC:<br>
 We can check status of the email in Tracking tab, which allows her to view:<br>
