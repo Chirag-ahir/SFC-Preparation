@@ -1,5 +1,11 @@
 # SFC-Preparation
 
+What is sales?<br>
+Sell your product to prospects is known as sales.
+
+What is sales process?<br>
+When you sell something there are certain steps of process that you follows (contact to cx, give rate, negotiation, close deal) those steps mean by sales process. 
+
 What is salesforce?<br>
 Salesforce is a cloud-based CRM platform that helps business to manage their sales, marketing and customer service activities. 
 
@@ -28,6 +34,10 @@ What are two ways to import data into SFC?<br>
 Data import wizard (Setup > Data import wizard - Supports <= 50000 Records)<br>
 Data loader (Client application - supports 5M+ data)
 
+What are two ways to export data into SFC?<br>
+Data export wizard (You can export data once in a week)<br>
+Data loader (As many as you want but not works in professional edition)
+
 What is validation rules?<br>
 Validation rule used to validate data when entering data into salesforce.
 
@@ -43,7 +53,7 @@ User license defines which type of functionality user can access in salesforce.
 What is junction object?<br>
 Any object which is got two master-detail relationship field on it is called as a junction object.
 
-What is page layout?
+What is page layout?<br>
 Page layouts control the layout and organization of buttons, fields, s-controls, Visualforce, custom links, and related lists on object record pages. It controls details page and edit page. 
 
 Modify page layout: https://youtu.be/gHHXE3FcxJM?si=J-hAfYB5odXILk5U&t=277  
