@@ -228,3 +228,5 @@ Unit test: A QA test to ensure an individual update meets requirements and follo
 What is partner in SFC?<br>
 Partners are the companies with which you collaborate to close your sales deals
 
+What is dependent picklist?<br>
+A dependent picklist is a custom or multi-select picklist for which the valid values depend on the value of another field, called the controlling field.
