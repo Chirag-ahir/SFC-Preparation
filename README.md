@@ -156,6 +156,15 @@ When we add a product to Opportunity it is called Opportunity Line Item which yo
 What is A/B testing?<br>
 If you have a two different content or two different email and you want to see which content performing well then you can use A/B testing.
 
+What is record types?<br>
+Record types determine the business processes, picklist values, and page layouts that are available to you when creating records.
+
+What is partner in SFC?<br>
+Partners are the companies with which you collaborate to close your sales deals
+
+What is dependent picklist?<br>
+A dependent picklist is a custom or multi-select picklist for which the valid values depend on the value of another field, called the controlling field.
+
 ==============================================SFMC==============================================<br>
 
 What are different email terminologies used in SFMC:<br>
@@ -225,8 +234,3 @@ Sprint: A short time period (often 2 weeks) when product teams work on a specifi
 Stack: The database group that your Marketing Cloud account is part of. Your stack and specific database (called an instance) impacts your account’s release date.<br>
 Unit test: A QA test to ensure an individual update meets requirements and follows expected behavior.
 
-What is partner in SFC?<br>
-Partners are the companies with which you collaborate to close your sales deals
-
-What is dependent picklist?<br>
-A dependent picklist is a custom or multi-select picklist for which the valid values depend on the value of another field, called the controlling field.
