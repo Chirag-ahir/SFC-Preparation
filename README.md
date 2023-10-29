@@ -177,6 +177,9 @@ The App Launcher presents tiles for all the standard apps, custom apps, and conn
 What's the difference between single sign-on (SSO) and social sign-on?<br>
 With SSO, users can access services without logging in to each one. With social sign-on, users can access a service using their social account credentials.
 
+Which objects we can transfer using mass transfer tool?<br>
+Use the Mass Transfer tool to transfer multiple accounts, leads, service contracts, and custom objects from one user to another.
+
 ==============================================SFMC==============================================<br>
 
 What are different email terminologies used in SFMC:<br>
