@@ -165,6 +165,9 @@ Partners are the companies with which you collaborate to close your sales deal
 What is dependent picklist?<br>
 A dependent picklist is a custom or multi-select picklist for which the valid values depend on the value of another field, called the controlling field.
 
+What is assignment rule?<br>
+Assignment rules define conditions that determine how leads or cases are processed. 
+
 ==============================================SFMC==============================================<br>
 
 What are different email terminologies used in SFMC:<br>
