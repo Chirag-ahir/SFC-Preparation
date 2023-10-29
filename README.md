@@ -168,6 +168,9 @@ A dependent picklist is a custom or multi-select picklist for which the valid va
 What is assignment rule?<br>
 Assignment rules define conditions that determine how leads or cases are processed. 
 
+What is salesforce identity?<br>
+Salesforce Identity lets you give the right people the right access to the right resources at the right time. You control who can access your orgs and who can use apps running on the Salesforce Platform, on-premises, in other clouds, and on mobile devices.
+
 ==============================================SFMC==============================================<br>
 
 What are different email terminologies used in SFMC:<br>
