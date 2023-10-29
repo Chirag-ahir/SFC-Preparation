@@ -173,6 +173,10 @@ Salesforce Identity lets you give the right people the right access to the right
 
 What is app launcher?<br>
 The App Launcher presents tiles for all the standard apps, custom apps, and connected apps in your Salesforce org. Your users can go to one location in Salesforce to access all apps—without having to log in again. 
+
+What's the difference between single sign-on (SSO) and social sign-on?<br>
+With SSO, users can access services without logging in to each one. With social sign-on, users can access a service using their social account credentials.
+
 ==============================================SFMC==============================================<br>
 
 What are different email terminologies used in SFMC:<br>
