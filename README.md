@@ -171,6 +171,8 @@ Assignment rules define conditions that determine how leads or cases are process
 What is salesforce identity?<br>
 Salesforce Identity lets you give the right people the right access to the right resources at the right time. You control who can access your orgs and who can use apps running on the Salesforce Platform, on-premises, in other clouds, and on mobile devices.
 
+What is app launcher?<br>
+The App Launcher presents tiles for all the standard apps, custom apps, and connected apps in your Salesforce org. Your users can go to one location in Salesforce to access all apps—without having to log in again. 
 ==============================================SFMC==============================================<br>
 
 What are different email terminologies used in SFMC:<br>
