@@ -180,6 +180,9 @@ With SSO, users can access services without logging in to each one. With social 
 Which objects we can transfer using mass transfer tool?<br>
 Use the Mass Transfer tool to transfer multiple accounts, leads, service contracts, and custom objects from one user to another.
 
+How many days after data will be deleted from recyclebin of SFC?<br>
+15 Days
+
 ==============================================SFMC==============================================<br>
 
 What are different email terminologies used in SFMC:<br>
