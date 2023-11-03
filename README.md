@@ -183,6 +183,9 @@ Use the Mass Transfer tool to transfer multiple accounts, leads, service contrac
 How many days after data will be deleted from recyclebin of SFC?<br>
 15 Days
 
+How many users we can add at once in SFC?<br>
+10
+
 ==============================================SFMC==============================================<br>
 
 What are different email terminologies used in SFMC:<br>
