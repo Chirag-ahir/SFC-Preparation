@@ -4,7 +4,7 @@ What is sales?<br>
 Sell your product to prospects is known as sales.
 
 What is sales process?<br>
-When you sell something there are certain steps of process that you follows (contact to cx, give rate, negotiation, close deal) those steps mean by sales process. 
+A sales process maps out the stages an opportunity follows through its sales cycle, affecting what’s available to view in a sales path. Within a specific sales process, you can easily add and remove stages.
 
 What is salesforce?<br>
 Salesforce is a cloud-based CRM platform that helps business to manage their sales, marketing and customer service activities. 
