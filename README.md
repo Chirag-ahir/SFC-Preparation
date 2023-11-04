@@ -9,6 +9,9 @@ A sales process maps out the stages an opportunity follows through its sales cyc
 What is salesforce?<br>
 Salesforce is a cloud-based CRM platform that helps business to manage their sales, marketing and customer service activities. 
 
+What is case?<br>
+A case is a customizable record in Salesforce that tracks and describes a customer issue, complaint, request.
+
 What is object?<br>
 Object in salesforc represents a entity which stores particular type of information in our database. 
 
