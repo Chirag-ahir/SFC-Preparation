@@ -189,6 +189,12 @@ How many days after data will be deleted from recyclebin of SFC?<br>
 How many users we can add at once in SFC?<br>
 10
 
+What is queues?<br>
+Queues automatically prioritize your support team’s workload by creating lists from which specific agents can jump in to solve certain types of cases.
+
+What is assignmennt rules?<br>
+Assignment rules automatically assign incoming cases to specific agents so that the right people work on the right cases.
+
 ==============================================SFMC==============================================<br>
 
 What are different email terminologies used in SFMC:<br>
