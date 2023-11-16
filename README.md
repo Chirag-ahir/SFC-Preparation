@@ -264,3 +264,5 @@ Sprint: A short time period (often 2 weeks) when product teams work on a specifi
 Stack: The database group that your Marketing Cloud account is part of. Your stack and specific database (called an instance) impacts your account’s release date.<br>
 Unit test: A QA test to ensure an individual update meets requirements and follows expected behavior.
 
+what is the difference between Export and Export All? <br>
+when you do export it will export all the records of object which is present in SFC while in Export All all the records of that object including records from Recycle bin also export. 
