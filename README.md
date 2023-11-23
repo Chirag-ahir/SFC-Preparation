@@ -195,6 +195,9 @@ Queues automatically prioritize your support team’s workload by creating lists
 What is assignmennt rules?<br>
 Assignment rules automatically assign incoming cases to specific agents so that the right people work on the right cases.
 
+What is Big deal alerts?<br>
+Big Deal Alerts automatically email your users whenever an opportunity reaches a threshold of amount and probability.
+
 ==============================================SFMC==============================================<br>
 
 What are different email terminologies used in SFMC:<br>
