@@ -198,6 +198,9 @@ Assignment rules automatically assign incoming cases to specific agents so that 
 What is Big deal alerts?<br>
 Big Deal Alerts automatically email your users whenever an opportunity reaches a threshold of amount and probability.
 
+What access we can give in salesforce dashboard folder?<br>
+View, Edit and Manage
+
 ==============================================SFMC==============================================<br>
 
 What are different email terminologies used in SFMC:<br>
