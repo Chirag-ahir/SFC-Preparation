@@ -201,6 +201,11 @@ Big Deal Alerts automatically email your users whenever an opportunity reaches a
 What access we can give in salesforce dashboard folder?<br>
 View, Edit and Manage
 
+Explain Tabular report <br>
+-This report is the simplest and fastest way to look at data. Similar to spreadsheets, it consists simply of an ordered set of fields in columns, with each matching record listed in a row.<br>
+-Use this report type for creating lists of records or a list with a single grand total.<br>
+-They can't be used to create groups of data or charts, and can't be used in dashboards unless rows are limited.<br>
+-Examples include contact mailing lists and activity reports<br>
 ==============================================SFMC==============================================<br>
 
 What are different email terminologies used in SFMC:<br>
