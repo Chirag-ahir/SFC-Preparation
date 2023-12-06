@@ -206,6 +206,20 @@ Explain Tabular report <br>
 -Use this report type for creating lists of records or a list with a single grand total.<br>
 -They can't be used to create groups of data or charts, and can't be used in dashboards unless rows are limited.<br>
 -Examples include contact mailing lists and activity reports<br>
+
+Explain Summary report <br>
+-This report is similar to a tabular report, but allow users to group rows of data, view subtotals, and create charts.<br>
+-It can be used as the source report for dashboard components.<br>
+-Use this type of report to show subtotals based on the value of a particular field, or when you want to create a hierarchical list, such as all opportunities for your team, subtotal by Stage and Owner.<br>
+
+Explain matrix report<br>
+-Matrix reports allow you to group and summarize data by both rows and columns.<br>
+-They can be used as the source report for dashboard components.<br>
+-Use this type of report for comparing related totals, especially if you have large amounts of data to summarize and you need to compare values in several different fields, or you want to look at data by date and by product, person, or geography.<br>
+-Matrix reports without at least one row and one column grouping show as summary reports on the report run page.<br>
+
+
+
 ==============================================SFMC==============================================<br>
 
 What are different email terminologies used in SFMC:<br>
