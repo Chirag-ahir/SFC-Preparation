@@ -218,7 +218,7 @@ Explain matrix report<br>
 -Use this type of report for comparing related totals, especially if you have large amounts of data to summarize and you need to compare values in several different fields, or you want to look at data by date and by product, person, or geography.<br>
 -Matrix reports without at least one row and one column grouping show as summary reports on the report run page.<br>
 
-
+Use a controlling picklist to filter the values of one picklist based on the value of another picklist.<br>
 
 ==============================================SFMC==============================================<br>
 
