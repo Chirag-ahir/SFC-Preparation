@@ -220,6 +220,11 @@ Explain matrix report<br>
 
 Use a controlling picklist to filter the values of one picklist based on the value of another picklist.<br>
 
+What are three ways to group campaigns in salesforce?<br>
+- Group campaigns by marketing strategy<br>
+- Group campaigns by time period<br>
+- Group campaigns by large event
+
 ==============================================SFMC==============================================<br>
 
 What are different email terminologies used in SFMC:<br>
