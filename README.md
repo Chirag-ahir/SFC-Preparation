@@ -228,6 +228,9 @@ What are three ways to group campaigns in salesforce?<br>
 Who can be added to campaigns as members?<br>
 Leads, Contacts and Person accounts
 
+What is event monitoring?<br>
+Event Monitoring is one of many tools that Salesforce provides to help keep your data secure. It lets you see the granular details of user activity in your organization. You can view information about individual events or track trends in events to swiftly identify abnormal behavior and safeguard your company’s data. Developer Edition organizations have free access to all log types with 1-day data retention.
+
 ==============================================SFMC==============================================<br>
 
 What are different email terminologies used in SFMC:<br>
