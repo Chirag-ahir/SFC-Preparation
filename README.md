@@ -248,6 +248,9 @@ Manual sharing lets record owners give read and edit permissions to users who mi
 What is a public group?<br>
 A public group is a collection of individual users, other groups, individual roles or territories, and/or roles or territories with their subordinates that all have a function in common.
 
+What are permission sets groups?<br>
+With permission set groups, you can bundle permission sets together based on a job function. A permission set group includes all permissions in the permission sets. You can even include a permission set in more than one permission set group.
+
 ==============================================SFMC==============================================<br>
 
 What are different email terminologies used in SFMC:<br>
