@@ -245,6 +245,8 @@ Role hierarchies ensure managers have access to the same records as their subord
 Sharing rules are automatic exceptions to org-wide defaults for particular groups of users, to give them access to records they don’t own or can’t normally see.<br>
 Manual sharing lets record owners give read and edit permissions to users who might not have access to the record any other way.
 
+What is a public group?<br>
+A public group is a collection of individual users, other groups, individual roles or territories, and/or roles or territories with their subordinates that all have a function in common.
 
 ==============================================SFMC==============================================<br>
 
