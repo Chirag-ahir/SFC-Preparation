@@ -235,6 +235,9 @@ Which URL you need to use for login into Production org and Sandbox?<br>
 Production: You can use https://login.salesforce.com/<br>
 Sandbox: You can use http://test.salesforce.com/
 
+What's the difference between page layouts and field-level security?<br>
+Unlike page layouts, which only control the visibility of fields on detail and edit pages, field-level security controls the visibility of fields in any part of the app, including related lists, list views, reports, and search results.
+
 ==============================================SFMC==============================================<br>
 
 What are different email terminologies used in SFMC:<br>
