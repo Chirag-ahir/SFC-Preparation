@@ -238,6 +238,14 @@ Sandbox: You can use http://test.salesforce.com/
 What's the difference between page layouts and field-level security?<br>
 Unlike page layouts, which only control the visibility of fields on detail and edit pages, field-level security controls the visibility of fields in any part of the app, including related lists, list views, reports, and search results.
 
+How many ways to control record-level access?<br>
+There are four ways to control record-level access<br>
+Org-wide defaults specify the default level of access users have to each other’s records.<br>
+Role hierarchies ensure managers have access to the same records as their subordinates. Each role in the hierarchy represents a level of data access that a user or group of users needs.<br>
+Sharing rules are automatic exceptions to org-wide defaults for particular groups of users, to give them access to records they don’t own or can’t normally see.<br>
+Manual sharing lets record owners give read and edit permissions to users who might not have access to the record any other way.
+
+
 ==============================================SFMC==============================================<br>
 
 What are different email terminologies used in SFMC:<br>
