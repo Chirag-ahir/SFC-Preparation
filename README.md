@@ -340,3 +340,6 @@ contact is a person you are going to send messages to. A subscriber opted to rec
 
 what is data designer?<br>
 Which type of data source connects two different contact data tables to each other based on a particular field?
+
+What is the right to rectification?<br>
+The right to correct personal data
