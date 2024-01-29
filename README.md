@@ -335,4 +335,6 @@ The Contact Key is a unique identifier that you assign to a contact.
 what is contact id?<br>
 The Contact ID is a number Salesforce uses to uniquely identify a contact on the backend. Salesforce uses the Contact ID to identify a contact in various channels.
 
+What is difference between contact and subscriber?<br>
+contact is a person you are going to send messages to. A subscriber opted to receive communications or belongs to a particular channel.
 
