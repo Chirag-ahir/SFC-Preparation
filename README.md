@@ -322,3 +322,6 @@ Unit test: A QA test to ensure an individual update meets requirements and follo
 
 what is the difference between Export and Export All? <br>
 when you do export it will export all the records of object which is present in SFC while in Export All all the records of that object including records from Recycle bin also export. 
+
+What is ROI?<br>
+Return on investment, or ROI, measures the all-important cost-effectiveness of campaigns—that is, how much a campaign earns compared to how much it costs
