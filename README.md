@@ -338,3 +338,5 @@ The Contact ID is a number Salesforce uses to uniquely identify a contact on the
 What is difference between contact and subscriber?<br>
 contact is a person you are going to send messages to. A subscriber opted to receive communications or belongs to a particular channel.
 
+what is data designer?<br>
+Which type of data source connects two different contact data tables to each other based on a particular field?
