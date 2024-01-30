@@ -343,3 +343,6 @@ Which type of data source connects two different contact data tables to each oth
 
 What is the right to rectification?<br>
 The right to correct personal data
+
+What is Journey Builder?<br>
+Journey Builder is a campaign planning tool in Marketing Cloud Engagement. You use it to design and automate campaigns that guide customers through their journey with your brand. 
