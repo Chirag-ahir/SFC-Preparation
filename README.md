@@ -346,3 +346,13 @@ The right to correct personal data
 
 What is Journey Builder?<br>
 Journey Builder is a campaign planning tool in Marketing Cloud Engagement. You use it to design and automate campaigns that guide customers through their journey with your brand. 
+
+What is Demographic data?<br>
+A subscriber’s name, mailing address, gender, age, birth date, and other information the subscriber shared on a signup form.
+
+What is Behavioral data?<br>
+Data from tracking actions across multiple channels, including purchase history, downloads, browsing activity, and email opens, usually accessible in your CRM or analytics platform.
+
+What is Contextual data?<br>
+Contextual data delivers information about the moment a subscriber opens an email, including device, location, date, time, or weather.
+
