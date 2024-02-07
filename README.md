@@ -251,7 +251,7 @@ A public group is a collection of individual users, other groups, individual rol
 What are permission sets groups?<br>
 With permission set groups, you can bundle permission sets together based on a job function. A permission set group includes all permissions in the permission sets. You can even include a permission set in more than one permission set group.
 
-==============================================SFMC==============================================<br>
+====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
 We can check status of the email in Tracking tab, which allows her to view:<br>
@@ -356,3 +356,5 @@ Data from tracking actions across multiple channels, including purchase history,
 What is Contextual data?<br>
 Contextual data delivers information about the moment a subscriber opens an email, including device, location, date, time, or weather.
 
+What is email template?<be>
+Email template is a foundation and structure of your email message.
