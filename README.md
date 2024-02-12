@@ -254,6 +254,10 @@ With permission set groups, you can bundle permission sets together based on a j
 What is Quote in CPQ?<br>
 A quote is both the document you give the customer and the electronic record of quote data.
 
+What is bundle in CPQ?<br>
+A collection of products that's sold together is called a:
+
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
