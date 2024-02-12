@@ -251,6 +251,9 @@ A public group is a collection of individual users, other groups, individual rol
 What are permission sets groups?<br>
 With permission set groups, you can bundle permission sets together based on a job function. A permission set group includes all permissions in the permission sets. You can even include a permission set in more than one permission set group.
 
+What is Quote in CPQ?<br>
+A quote is both the document you give the customer and the electronic record of quote data.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
