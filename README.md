@@ -255,8 +255,10 @@ What is Quote in CPQ?<br>
 A quote is both the document you give the customer and the electronic record of quote data.
 
 What is bundle in CPQ?<br>
-A collection of products that's sold together is called a:
+A collection of products that's sold together is called a bundle.
 
+What is PDF Quote in CPQ?<br>
+A PDF Quote in a CPQ is a list of products the customer wants, pricing information, terms and a signature area. 
 
 ====================================SFMC=====================================<br>
 
