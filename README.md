@@ -298,6 +298,12 @@ What are two types of apps in salesforce?<br>
 Standard navigation app<br>
 Console navigation app
 
+Can you give example of junction object in non technical terms?<br>
+School is a best example of junction object between students and techers. <br>
+One students can be studied with multiple techer (One to many)<br>
+Onc techer can be give session to multiple students (One to many)<br>
+Both teacher and students have many to many relationship between them 
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
