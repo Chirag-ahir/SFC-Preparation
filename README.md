@@ -272,6 +272,10 @@ Lead Status - 100<br>
 Case Status - 100<br>
 Opportunity Stage - 100<br>
 
+What are the diffference between Lookup and Master Detail relationship?<br>
+![image](https://github.com/Chirag-ahir/SFC-Preparation/assets/72852725/379a4f80-0a2e-4333-8423-8cbcfa343790)
+
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
