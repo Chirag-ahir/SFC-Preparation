@@ -285,6 +285,15 @@ You can use up to five active duplicate rules per object.
 How many fields we can track of object using field history tracking?<br>
 20
 
+What are different ty[es of cloud in salesforce?
+Sales cloud
+Service cloud
+Marketing cloud 
+Health cloud
+Finance cloud
+Data cloud (Recently added)
+AI Cloud (Recently added)
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
