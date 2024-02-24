@@ -261,6 +261,10 @@ A collection of products that's sold together is called a bundle.
 What is PDF Quote in CPQ?<br>
 A PDF Quote in a CPQ is a list of products the customer wants, pricing information, terms and a signature area. 
 
+Where can i find Recycle Bin button in salesforce?<br>
+We can find recycle bin button in classic version of salesforce. <br>
+Click on My Profile > Switch to Salesforce Classic > Home > Recycle Bin
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
