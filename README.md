@@ -279,6 +279,8 @@ From where can you recover deleted fields of any object?<br>
 Go to particular object > Field & Relationships > Deleted fields<br>
 ![image](https://github.com/Chirag-ahir/SFC-Preparation/assets/72852725/10ae256c-ec79-4e00-9ef0-dd107ef32722)
 
+How many duplicate rules we can create on object ?<br>
+You can use up to five active duplicate rules per object.
 
 ====================================SFMC=====================================<br>
 
