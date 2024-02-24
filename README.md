@@ -282,6 +282,9 @@ Go to particular object > Field & Relationships > Deleted fields<br>
 How many duplicate rules we can create on object ?<br>
 You can use up to five active duplicate rules per object.
 
+How many fields we can track of object using field history tracking?<br>
+20
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
