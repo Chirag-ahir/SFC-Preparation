@@ -265,6 +265,13 @@ Where can i find Recycle Bin button in salesforce?<br>
 We can find recycle bin button in classic version of salesforce. <br>
 Click on My Profile > Switch to Salesforce Classic > Home > Recycle Bin
 
+How many values we can add in picklist field?<br>
+In single-select picklist you can add 1000 values while in multi-select picklist you can add 500 values.<br>
+For standard picklist fields limits are below:<br>
+Lead Status - 100<br>
+Case Status - 100<br>
+Opportunity Stage - 100<br>
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
