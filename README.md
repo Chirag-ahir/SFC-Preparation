@@ -294,6 +294,10 @@ Finance cloud
 Data cloud (Recently added)
 AI Cloud (Recently added)
 
+What are two types of apps in salesforce?<br>
+Standard navigation app<br>
+Console navigation app
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
