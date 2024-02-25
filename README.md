@@ -304,6 +304,12 @@ One students can be studied with multiple techer (One to many)<br>
 Onc techer can be give session to multiple students (One to many)<br>
 Both teacher and students have many to many relationship between them 
 
+Can you give me real time example of self relationship.<br>
+On account object there is a field called parent account which is lookup to account. it is one type of self relationship which is used for denoting parent account (e.g, one company might have it’s parent company) 
+
+Can you give example of roll up summary field.<br>
+You can use roll up summary field on account to see total count of opportunities on particular account. 
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
