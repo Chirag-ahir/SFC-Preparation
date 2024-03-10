@@ -420,3 +420,6 @@ Email template is a foundation and structure of your email message.
 
 What is Setup Assistant?<br>
 Setup Assistant is a prioritized account configuration checklist that guides you through the essential steps to set up your Marketing Cloud account. It provides links to relevant documentation and resources to help you complete each task.
+
+What is IP Allowlist?<br>
+ IP Allowlist is a feature that restricts API access to Marketing Cloud from a specific set of IP addresses. 
