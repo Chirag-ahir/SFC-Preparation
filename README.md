@@ -417,3 +417,6 @@ Contextual data delivers information about the moment a subscriber opens an emai
 
 What is email template?<be>
 Email template is a foundation and structure of your email message.
+
+What is Setup Assistant?<br>
+Setup Assistant is a prioritized account configuration checklist that guides you through the essential steps to set up your Marketing Cloud account. It provides links to relevant documentation and resources to help you complete each task.
