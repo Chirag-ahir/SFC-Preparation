@@ -423,3 +423,8 @@ Setup Assistant is a prioritized account configuration checklist that guides you
 
 What is IP Allowlist?<br>
  IP Allowlist is a feature that restricts API access to Marketing Cloud from a specific set of IP addresses. 
+
+What is Scrum?<br>
+Scrum is a process, with defined roles, meetings, and deliverables that provides the framework to deliver high-quality value to our customers faster.
+
+
