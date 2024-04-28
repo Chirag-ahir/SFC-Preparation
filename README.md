@@ -321,6 +321,9 @@ To accommodate the common stages and fields for new product support cases and th
 What is Einstein Bot?<br>
 Einstein Bots can be integrated into websites and configured to provide real-time, automated responses to common customer inquiries, such as order status updates, enhancing the customer experience by providing instant access to information without human intervention. To provide automated self-service on an ecommerce site for customers to check order status, creating an Einstein Bot is recommended.
 
+What is knowledge component?<br>
+Knowledge component dynamically suggests articles based on case details, aiding agents in providing accurate and efficient responses. To assist service agents in finding relevant Knowledge articles for new cases, adding the Knowledge component to the Case record page in the Lightning Service Console is recommended.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
