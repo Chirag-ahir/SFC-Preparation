@@ -318,6 +318,9 @@ What is web to case with assignment rules?<br>
 What is support process<br>
 To accommodate the common stages and fields for new product support cases and the additional stages and fields for maintenance cases, implementing Support Processes is recommended. Support Processes allow for the customization of case stages based on the type of support being provided, ensuring that all necessary information is captured accurately for each case type.
 
+What is Einstein Bot?<br>
+Einstein Bots can be integrated into websites and configured to provide real-time, automated responses to common customer inquiries, such as order status updates, enhancing the customer experience by providing instant access to information without human intervention. To provide automated self-service on an ecommerce site for customers to check order status, creating an Einstein Bot is recommended.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
