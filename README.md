@@ -315,6 +315,9 @@ What is web to case with assignment rules?<br>
 - This feature allows for the creation of web forms that customers can fill out, which then become cases in Salesforce.<br>
 - Assignment rules can then be used to automatically route these cases to the appropriate teams or agents based on predefined criteria, ensuring efficient and relevant case handling.
 
+What is support process<br>
+To accommodate the common stages and fields for new product support cases and the additional stages and fields for maintenance cases, implementing Support Processes is recommended. Support Processes allow for the customization of case stages based on the type of support being provided, ensuring that all necessary information is captured accurately for each case type.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
