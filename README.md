@@ -191,7 +191,7 @@ How many users we can add at once in SFC?<br>
 10
 
 What is queues?<br>
-Queues automatically prioritize your support team’s workload by creating lists from which specific agents can jump in to solve certain types of cases.
+Queues automatically prioritize your support team’s workload by creating lists from which specific agents can jump in to resolve certain types of cases based on category. To efficiently distribute cases and get the right people involved for quicker resolution, creating queues that group support agents by expertise or function and utilizing assignment rules to automatically route cases to the appropriate queues is recommended. This approach streamlines case distribution, ensuring cases are handled by agents best equipped to resolve them promptly.
 
 What is assignmennt rules?<br>
 Assignment rules automatically assign incoming cases to specific agents so that the right people work on the right cases.
