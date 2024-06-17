@@ -327,6 +327,11 @@ Knowledge component dynamically suggests articles based on case details, aiding 
 What are governance limits?<br>
 Governance limits are The limits That controls the number of records you can store in the shared database.
 
+What are difference between salesforce.com and force.com?<br>
+Salesforce.com is a software as a service CRM application while force.com is a platform to support the developers build customized enterprise applications.<br>
+Salesforce is a SaaS product while force.com is PaaS model.<br>
+Salesforce helps the users to store data of application while force.com helps in building & operating application that are connected with salesforce data.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
