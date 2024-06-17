@@ -324,6 +324,9 @@ Einstein Bots can be integrated into websites and configured to provide real-tim
 What is knowledge component?<br>
 Knowledge component dynamically suggests articles based on case details, aiding agents in providing accurate and efficient responses. To assist service agents in finding relevant Knowledge articles for new cases, adding the Knowledge component to the Case record page in the Lightning Service Console is recommended.
 
+What are governance limits?<br>
+Governance limits are The limits That controls the number of records you can store in the shared database.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
