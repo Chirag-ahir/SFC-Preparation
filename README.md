@@ -332,6 +332,9 @@ Salesforce.com is a software as a service CRM application while force.com is a p
 Salesforce is a SaaS product while force.com is PaaS model.<br>
 Salesforce helps the users to store data of application while force.com helps in building & operating application that are connected with salesforce data.
 
+What is Visulaforce?<br>
+Visulaforce is a framework that allows developers to build custom user interfaces that can be hosted on the lightning platform.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
