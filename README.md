@@ -103,6 +103,7 @@ What are different levels of Data level security?<br>
     - Profile level (Setup > Profile > Particular profile > Field level security)<br>
     - Permission sets (Setup > Profile > Particular permission set > Object setting)<br>
     - Page layout (Required & Read Only)<br>
+    - Object > Field-Level Security (Visible & Read-Only) <br>
     - “Field Accessibility” is a one place to set security for all profile at once<br>
 4. Record level security: Three permission: (Public read/write + Public read only + Private)<br>
     - Four level<br>
