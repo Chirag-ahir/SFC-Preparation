@@ -335,6 +335,9 @@ Salesforce helps the users to store data of application while force.com helps in
 What is Visulaforce?<br>
 Visulaforce is a framework that allows developers to build custom user interfaces that can be hosted on the lightning platform.
 
+What is Salesforce Lightning?<br>
+Salesforce lightning is a new UI by salesforce. It comes with convenient new design, more productivity tools & more functionality such as AI which helps in streamlining business process.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
