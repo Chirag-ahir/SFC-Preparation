@@ -203,6 +203,12 @@ Big Deal Alerts automatically email your users whenever an opportunity reaches a
 What access we can give in salesforce dashboard folder?<br>
 View, Edit and Manage
 
+What is report in salesforce?<br>
+Reports in Salesforce are powerful tools that help users analyze and visualize their data. They allow users to summarize, filter, and organize data to gain valuable insights, track performance, and support informed decision-making.
+
+What is report builder?<br>
+The report builder is a visula drag and drop tool which you use to create reports and edit existing ones. The report builder is where you choose a report type, report format, and the fields that make up your report.
+
 Explain Tabular report <br>
 -This report is the simplest and fastest way to look at data. Similar to spreadsheets, it consists simply of an ordered set of fields in columns, with each matching record listed in a row.<br>
 -Use this report type for creating lists of records or a list with a single grand total.<br>
