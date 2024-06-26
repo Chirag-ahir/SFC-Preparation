@@ -351,6 +351,9 @@ Salesforce lightning is a new UI by salesforce. It comes with convenient new des
 What is the difference between email-to-case and on demand email-to-case?<br>
 ![WhatsApp Image 2024-06-18 at 16 10 34_d9bb5e74](https://github.com/Chirag-ahir/SFC-Preparation/assets/72852725/fdfa7360-5c3b-4f61-b045-184efd30a4f3)
 
+What is the difference between trigger and workflow?<br>
+Workflow is automated process that fired an action based on Evaluation criteria and rule criteria, Whereas trigger is a piece of code that executes before or after a record is inserted or updated.
+
 
 ====================================SFMC=====================================<br>
 
