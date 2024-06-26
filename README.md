@@ -326,6 +326,9 @@ On account object there is a field called parent account which is lookup to acco
 Can you give example of roll up summary field.<br>
 You can use roll up summary field on account to see total count of opportunities on particular account. 
 
+What is web to lead in salesforce?<br>
+Salesforce Web-to-Lead is a powerful tool that allows businesses to capture leads from their website and store them in Salesforce.
+
 What is web to case with assignment rules?<br>
 - To enable customers to log cases with structured data and route them based on urgency and product line, using Standard Web-to-Case with assignment rules is recommended.<br> 
 - This feature allows for the creation of web forms that customers can fill out, which then become cases in Salesforce.<br>
