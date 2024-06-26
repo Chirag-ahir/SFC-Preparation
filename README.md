@@ -33,12 +33,15 @@ Modify list view of object: https://youtu.be/PjiSTxBWcrk?si=UWXs9AOtFnbGTDSV&t=8
 What is Schema Builder?
 Schema Builder is a tool that lets you visualise and edit your data model. It’s useful for designing and understanding complex data models like the company’s employees and all sales (Setup > Schema Builder)
 
+What is Data loader?<br>
+Data Loader is a client application for the bulk import or export of data. Use it to insert, update, delete, or export Salesforce records.
+
 What are two ways to import data into SFC?<br>
 Data import wizard (Setup > Data import wizard - Supports <= 50000 Records)<br>
 Data loader (Client application - supports 5M+ data)
 
 What are two ways to export data into SFC?<br>
-Data export wizard (You can export data once in a week)<br>
+Data export wizard (You can export data once in a week or monthly)<br>
 Data loader (As many as you want but not works in professional edition)
 
 What is validation rules?<br>
