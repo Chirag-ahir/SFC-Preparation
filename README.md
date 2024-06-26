@@ -161,6 +161,9 @@ In product you are storing information of your service and product.
 What is opportunity line item?<br>
 When we add a product to Opportunity it is called Opportunity Line Item which you use during your sales.
 
+What is auto reponse rule?<br>
+Auto Response Rules enable businesses to automatically respond to inquiries or submissions made by leads or cases.
+
 What is A/B testing?<br>
 If you have a two different content or two different email and you want to see which content performing well then you can use A/B testing.
 
