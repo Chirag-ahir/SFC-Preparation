@@ -363,6 +363,8 @@ What is the difference between email-to-case and on demand email-to-case?<br>
 What is the difference between trigger and workflow?<br>
 Workflow is automated process that fired an action based on Evaluation criteria and rule criteria, Whereas trigger is a piece of code that executes before or after a record is inserted or updated.
 
+Add support path on case object: You can add it through lightning app builder.<br>
+![image](https://github.com/Chirag-ahir/SFC-Preparation/assets/72852725/197c13c7-db64-4fd9-9884-eeb3248b5653)
 
 ====================================SFMC=====================================<br>
 
