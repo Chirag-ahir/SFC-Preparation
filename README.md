@@ -378,6 +378,9 @@ What are four types of apps in salesforce?<br>
 - lightning app builder - Lightning app builder accessible from app manager as you click on edit button on any app it will redirect you to app builder. You can find this app builder in the quick find box.<br>
 Using lightnning app builder you can create App page, Home page, Record page, Embedded servie page, Voice extension, Omni supervisor page.
 
+What is casecade delete inn salesforce?<br>
+Cascade delete is a relational database term used to describe the process by which child records are automatically deleted when their parent record is deleted
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
