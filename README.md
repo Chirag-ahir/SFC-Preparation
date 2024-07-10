@@ -381,6 +381,13 @@ Using lightnning app builder you can create App page, Home page, Record page, Em
 What is casecade delete inn salesforce?<br>
 Cascade delete is a relational database term used to describe the process by which child records are automatically deleted when their parent record is deleted
 
+What is salesforce shield?<br>
+Salesforce Shield is a set of security tools offered by Salesforce to provide enhanced security, compliance, and governance for businesses handling sensitive data. It includes three core features:<br>
+- Event Monitoring: Provides visibility into user actions through event logs.<br>
+- Field Audit Trail: Extends data retention for audit purposes.<br>
+- Platform Encryption: Offers advanced encryption options for data at rest.<br>
+You need to purchase a separate license to use this. 
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
