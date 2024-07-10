@@ -386,7 +386,10 @@ Salesforce Shield is a set of security tools offered by Salesforce to provide en
 - Event Monitoring: Provides visibility into user actions through event logs.<br>
 - Field Audit Trail: Extends data retention for audit purposes.<br>
 - Platform Encryption: Offers advanced encryption options for data at rest.<br>
-You need to purchase a separate license to use this. 
+You need to purchase a separate license to use this.
+
+What is the difference between login hours and business hours?<br>
+Login Hours restrict when users can log in to Salesforce (set at the profile level), while Business Hours define organizational working hours for time-based processes and calculations.
 
 ====================================SFMC=====================================<br>
 
@@ -500,7 +503,9 @@ What is Setup Assistant?<br>
 Setup Assistant is a prioritized account configuration checklist that guides you through the essential steps to set up your Marketing Cloud account. It provides links to relevant documentation and resources to help you complete each task.
 
 What is IP Allowlist?<br>
- IP Allowlist is a feature that restricts API access to Marketing Cloud from a specific set of IP addresses. 
+IP Allowlist is a feature that restricts API access to Marketing Cloud from a specific set of IP addresses. 
+
+ 
 
 What is Scrum?<br>
 Scrum is a process, with defined roles, meetings, and deliverables that provides the framework to deliver high-quality value to our customers faster.
