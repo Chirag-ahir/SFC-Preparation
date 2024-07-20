@@ -394,6 +394,9 @@ Login Hours restrict when users can log in to Salesforce (set at the profile lev
 What is ant migration tool?<br>
 The ANT Migration tool is a command line utility tool to retrieve, deploy and delete metadata from a Salesforce Instance.
 
+What is change set?<br>
+Change set is a powerful tool for deploying customizations and changes between Salesforce orgs. Change sets can contain a variety of components like Apex code, objects, fields, page layouts, and more, which can be deployed from a sandbox environment to a production environment or from one sandbox to another.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
