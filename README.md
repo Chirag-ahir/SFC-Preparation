@@ -391,6 +391,9 @@ You need to purchase a separate license to use this.
 What is the difference between login hours and business hours?<br>
 Login Hours restrict when users can log in to Salesforce (set at the profile level), while Business Hours define organizational working hours for time-based processes and calculations.
 
+What is ant migration tool?<br>
+The ANT Migration tool is a command line utility tool to retrieve, deploy and delete metadata from a Salesforce Instance.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
