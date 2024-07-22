@@ -238,6 +238,9 @@ Bucket fields in Salesforce reports allow users to categorize report records int
 What is report builder?<br>
 The report builder is a visual drag and drop tool which you use to create reports and edit existing ones. The report builder is where you choose a report type, report format, and the fields that make up your report.
 
+What is reporting snapshot?<br>
+A Reporting Snapshot in Salesforce is a tool that captures the data from report results at scheduled intervals and saves it as records in a custom object. This feature enables users to track and report on historical data trends over time. 
+
 Explain Tabular report <br>
 -This report is the simplest and fastest way to look at data. Similar to spreadsheets, it consists simply of an ordered set of fields in columns, with each matching record listed in a row.<br>
 -Use this report type for creating lists of records or a list with a single grand total.<br>
