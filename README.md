@@ -387,7 +387,7 @@ Cascade delete is a relational database term used to describe the process by whi
 What is salesforce shield?<br>
 Salesforce Shield is a set of security tools offered by Salesforce to provide enhanced security, compliance, and governance for businesses handling sensitive data. It includes three core features:<br>
 - Event Monitoring: Provides visibility into user actions through event logs.<br>
-- Field Audit Trail: Extends data retention for audit purposes.<br>
+- Field Audit Trail: Extends data retention for audit purposes. Can set it up on 60 fields and can set retention period to 1 month to 10 years <br>
 - Platform Encryption: Offers advanced encryption options for data at rest.<br>
 You need to purchase a separate license to use this.
 
