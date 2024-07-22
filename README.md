@@ -1,7 +1,7 @@
 # SFC-Preparation
 
 What is Service Cloud?<br>
-Service Cloud is a CRM platform designed to support and enhance customer service operations, It includes objects such as Cases, Assets, Knowledge Base, Solutions, Entitlements and Functionality such as Service Console, Web-to-Case, Omni Channel. 
+Service Cloud is a CRM platform designed to support and enhance customer service operations, It includes objects such as Cases, Assets, Knowledge Base, Solutions, Entitlements and Functionality such as Service Console, Web-to-Case, Email-to-Case, Escalation Rules and Omni Channel. 
 
 How many objects you can create in unlimited edition?<br>
 2000 custom object and 100 object you can install via AppExchange
