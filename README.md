@@ -400,6 +400,9 @@ Change set is a powerful tool for deploying customizations and changes between S
 What is Export data settings?<br>
 Export Data Settings is a feature that allows you to control which users can export data from Salesforce and how much data they can export at a time. You can enable or disable the Export Reports permission for different profiles or permission sets, and set a maximum number of records that can be exported per hour for your org
 
+What is campaign member?<br>
+A Campaign Member is a Junction Object between an individual Lead or Contact and a specific Salesforce Campaign.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
