@@ -403,6 +403,9 @@ Export Data Settings is a feature that allows you to control which users can exp
 What is campaign member?<br>
 A Campaign Member is a Junction Object between an individual Lead or Contact and a specific Salesforce Campaign.
 
+What are scoping rules in salesforce?<br>
+Scoping rules let you control the records that your users see based on criteria that you select. You can set up scoping rules for different users in your Salesforce org so that they can focus on the records that matter to them.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
