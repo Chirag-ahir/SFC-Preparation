@@ -295,7 +295,7 @@ What are permission sets groups?<br>
 With permission set groups, you can bundle permission sets together based on a job function. A permission set group includes all permissions in the permission sets. You can even include a permission set in more than one permission set group.
 
 What is Quote in CPQ?<br>
-A quote is both the document you give the customer and the electronic record of quote data.
+A quote is a negotiated price given to the customer which is valid for specific time.
 
 What is bundle in CPQ?<br>
 A collection of products that's sold together is called a bundle.
