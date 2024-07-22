@@ -406,6 +406,9 @@ A Campaign Member is a Junction Object between an individual Lead or Contact and
 What are scoping rules in salesforce?<br>
 Scoping rules let you control the records that your users see based on criteria that you select. You can set up scoping rules for different users in your Salesforce org so that they can focus on the records that matter to them.
 
+What is case teams?<br>
+A case team is a group of people that work together to solve cases.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
