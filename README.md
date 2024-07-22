@@ -1,5 +1,8 @@
 # SFC-Preparation
 
+What is Service Cloud?<br>
+Service Cloud is a CRM platform designed to support and enhance customer service operations, It includes objects such as Cases, Knowledge Base, Solutions, Entitlements and Functionality such as Service Console, Web-to-Case, Omni Channel. 
+
 What is sales?<br>
 Sell your product to prospects is known as sales.
 
