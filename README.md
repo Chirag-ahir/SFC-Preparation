@@ -224,6 +224,14 @@ View, Edit and Manage
 What is report in salesforce?<br>
 Reports in Salesforce are powerful tools that help users analyze and visualize their data. They allow users to summarize, filter, and organize data to gain valuable insights, track performance, and support informed decision-making.
 
+What is customer report?<br>
+The Customer Report in Salesforce is a type of report that focuses on customer data and interactions. It typically includes information about customer accounts, contacts, activities, and history of interactions. <br> Customer reports in Salesforce can be classified based on various criteria such as:<br>
+
+- Activity Reports: Detailing customer interactions like calls, emails, and meetings.<br>
+- Sales Reports: Tracking sales activities, opportunities, and revenue from customers.<br>
+- Service Reports: Focusing on customer service metrics and case management.<br>
+- Marketing Reports: Analyzing customer responses to marketing campaigns and engagement levels.<br>
+
 What is report builder?<br>
 The report builder is a visula drag and drop tool which you use to create reports and edit existing ones. The report builder is where you choose a report type, report format, and the fields that make up your report.
 
