@@ -232,8 +232,11 @@ The Customer Report in Salesforce is a type of report that focuses on customer d
 - Service Reports: Focusing on customer service metrics and case management.<br>
 - Marketing Reports: Analyzing customer responses to marketing campaigns and engagement levels.<br>
 
+What is bucket field?<br>
+Bucket fields in Salesforce reports allow users to categorize report records into groups without creating complex formulas or custom fields. 
+
 What is report builder?<br>
-The report builder is a visula drag and drop tool which you use to create reports and edit existing ones. The report builder is where you choose a report type, report format, and the fields that make up your report.
+The report builder is a visual drag and drop tool which you use to create reports and edit existing ones. The report builder is where you choose a report type, report format, and the fields that make up your report.
 
 Explain Tabular report <br>
 -This report is the simplest and fastest way to look at data. Similar to spreadsheets, it consists simply of an ordered set of fields in columns, with each matching record listed in a row.<br>
