@@ -413,6 +413,7 @@ Salesforce Shield is a set of security tools offered by Salesforce to provide en
 - Event Monitoring: Provides visibility into user actions through event logs.<br>
 - Field Audit Trail: Extends data retention for audit purposes. Can set it up on 60 fields and can set retention period to 1 month to 10 years <br>
 - Platform Encryption: Offers advanced encryption options for data at rest.<br>
+- Einstein Data Detect - Scan for sensitive data
 You need to purchase a separate license to use this.
 
 What is the difference between login hours and business hours?<br>
