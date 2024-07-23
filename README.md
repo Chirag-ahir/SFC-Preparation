@@ -278,6 +278,9 @@ Sandbox: You can use http://test.salesforce.com/
 How to login to sandbox?<br>
 Users can log into the sandbox at https://test.salesforce.com by appending .sandbox_name to their Salesforce usernames. For example, if a username for a production organization is user1@acme.com, and the sandbox is named “test”, then the modified username to log into the sandbox is user1@acme.com.test.
 
+What is sandbox template?<br>
+Sandbox template allow you to pick specific objects and data to copy to your Full or Partial Copy sandbox to control the size and content of each sandbox.
+
 What's the difference between page layouts and field-level security?<br>
 Unlike page layouts, which only control the visibility of fields on detail and edit pages, field-level security controls the visibility of fields in any part of the app, including related lists, list views, reports, and search results.
 
