@@ -437,6 +437,8 @@ Scoping rules let you control the records that your users see based on criteria 
 What is case teams?<br>
 A case team is a group of people that work together to solve cases.
 
+What is transactional security?<br>
+Transaction Security is a framework that intercepts real-time events and applies appropriate actions to monitor and control user activity
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
