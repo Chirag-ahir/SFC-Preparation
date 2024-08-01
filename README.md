@@ -456,6 +456,11 @@ Can we delete reports using Dataloader?<br>
 No we can not delete reports using dataloader, but you can mass delete reports by going to SetUp > Mass Delete Reports. <br>
 First you need to make sure that reports you are deleting is not used by any dashboards. 
 
+What objects are supported in Mass Delete Records?<br>
+- Accounts | Leads | Activities | Contacts | Cases | Solutions | Products | Reports
+
+![image](https://github.com/user-attachments/assets/6d0f7f1a-cd03-4e0f-a32b-7d8425134482)
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
