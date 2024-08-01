@@ -446,6 +446,9 @@ Transaction Security is a framework that intercepts real-time events and applies
 What is login ip ranges?<br>
 Login IP Ranges allow you to specify a set of IP Ranges where a login is allowed.
 
+Can we rename standard and custom tabs names in salesforce?<br>
+Yes we can rename both standard and custom tab names by going to SetUp > Rename Tabs and Labels
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
