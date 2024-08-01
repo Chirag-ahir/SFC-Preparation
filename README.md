@@ -177,6 +177,9 @@ When we add a product to Opportunity it is called Opportunity Line Item which yo
 What is auto reponse rule?<br>
 Auto Response Rules enable businesses to automatically respond to inquiries or submissions made by leads or cases.
 
+What are total number of workflows can be create per object?<br>
+25
+
 What is A/B testing?<br>
 If you have a two different content or two different email and you want to see which content performing well then you can use A/B testing.
 
