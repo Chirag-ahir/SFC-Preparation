@@ -186,6 +186,9 @@ When we add a product to Opportunity it is called Opportunity Line Item which yo
 What is auto reponse rule?<br>
 Auto Response Rules enable businesses to automatically respond to inquiries or submissions made by leads or cases.
 
+What is lead auto response rule?<br>
+Lead auto-response rule is a feature that automatically sends an email to a lead or contact when they trigger a specific condition. 
+
 What are total number of workflows can be create per object?<br>
 25
 
