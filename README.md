@@ -470,6 +470,8 @@ The Contact to Multiple Accounts feature enables users to associate a contact wi
 What is salesforce trust?<br>
 Salesforce Trust is a website that provides information about the performance, security, compliance, and maintenance of the Salesforce platform. Users can check for scheduled system maintenance on Salesforce Trust by selecting their instance and viewing the maintenance calendar. Users can also subscribe to receive notifications about maintenance events via email or RSS feed. 
 
+What is opportunity splits?<br>
+Opportunity Splits is a Salesforce feature that allows users to allocate credit to multiple sales reps who collaborate on an opportunity. Users can define different types of splits, such as revenue splits or overlay splits, and assign percentages or amounts to each team member. 
 
 ====================================SFMC=====================================<br>
 
