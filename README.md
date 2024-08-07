@@ -480,6 +480,9 @@ Ref: https://www.salesforceben.com/best-practices-for-using-salesforce-account-t
 What is default account team?<br>
 A Default Account Team is a predefined team that the Account Owner can set up, which can then be assigned to an owner’s accounts when applicable. 
 
+What is customer lifespan?<br>
+customer lifespan defines How long a renewable customer has been with a business.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
