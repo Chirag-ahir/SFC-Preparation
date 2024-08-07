@@ -154,6 +154,9 @@ Two typesof leads in SFC:<br>
 
 Create new lead in SFC: https://youtu.be/IIpFA3mMR8s?si=D__GcQhUZYQx1fxU&t=2 
 
+What is lead assignment rules?<br>
+Lead Assignment Rules are used to automatically assign lead records to a particular user or queue based on different conditions.
+
 What is campaign?<br>
 It is a collection of Leads and Contacts who have been introduced to specific advertising messages.
 
