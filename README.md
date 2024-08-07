@@ -477,6 +477,9 @@ What is Account team?<br>
 An Account Team is simply a group of users working on an account together. <br>
 Ref: https://www.salesforceben.com/best-practices-for-using-salesforce-account-teams/
 
+What is default account team?<br>
+A Default Account Team is a predefined team that the Account Owner can set up, which can then be assigned to an owner’s accounts when applicable. 
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
