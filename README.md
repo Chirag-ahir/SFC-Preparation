@@ -498,6 +498,9 @@ customer lifespan defines How long a renewable customer has been with a business
 What is Territory management?<br>
 Territory management is the process by which sellers prioritize and manage a group of customers and prospects, who are typically organized by segments (such as geography, industry and need).
 
+What is lead process?<br>
+Lead process outlines the stages a lead must go through in order to qualify for a sales opportunity. It describes the procedures for qualifying leads, fostering them, and finally turning them into real clients.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
