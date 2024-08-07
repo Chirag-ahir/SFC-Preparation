@@ -473,6 +473,10 @@ Salesforce Trust is a website that provides information about the performance, s
 What is opportunity splits?<br>
 Opportunity Splits is a Salesforce feature that allows users to allocate credit to multiple sales reps who collaborate on an opportunity. Users can define different types of splits, such as revenue splits or overlay splits, and assign percentages or amounts to each team member. 
 
+What is Account team?<br>
+An Account Team is simply a group of users working on an account together. <br>
+Ref: https://www.salesforceben.com/best-practices-for-using-salesforce-account-teams/
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
