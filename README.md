@@ -467,6 +467,10 @@ Dashboard filter helps you narrow things down by a certain subset. Each dashboar
 What is contact to multiple accounts feature?<br>
 The Contact to Multiple Accounts feature enables users to associate a contact with multiple accounts, without creating duplicate contacts. This feature is useful for scenarios where a contact has relationships with more than one account, such as a consultant or an influencer.
 
+What is salesforce trust?<br>
+Salesforce Trust is a website that provides information about the performance, security, compliance, and maintenance of the Salesforce platform. Users can check for scheduled system maintenance on Salesforce Trust by selecting their instance and viewing the maintenance calendar. Users can also subscribe to receive notifications about maintenance events via email or RSS feed. 
+
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
