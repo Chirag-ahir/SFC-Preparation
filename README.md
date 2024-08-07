@@ -36,6 +36,9 @@ A list view is a filtered list of records where you can view records for one obj
 
 Modify list view of object: https://youtu.be/PjiSTxBWcrk?si=UWXs9AOtFnbGTDSV&t=850
 
+What is Record ID in salesforce?<br>
+Record Ids are the 15 Digit unique values for each record in Salesforce.
+
 What is Schema Builder?
 Schema Builder is a tool that lets you visualise and edit your data model. It’s useful for designing and understanding complex data models like the company’s employees and all sales (Setup > Schema Builder)
 
