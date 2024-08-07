@@ -483,6 +483,9 @@ A Default Account Team is a predefined team that the Account Owner can set up, w
 What is customer lifespan?<br>
 customer lifespan defines How long a renewable customer has been with a business.
 
+What is Territory management?<br>
+Territory management is the process by which sellers prioritize and manage a group of customers and prospects, who are typically organized by segments (such as geography, industry and need).
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
