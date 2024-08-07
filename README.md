@@ -70,7 +70,10 @@ What is junction object?<br>
 Any object which is got two master-detail relationship field on it is called as a junction object.
 
 What is page layout?<br>
-Page layouts control the layout and organization of buttons, fields, s-controls, Visualforce, custom links, and related lists on object record pages. It controls details page and edit page. 
+Page layout determines the buttons, fields, related lists, and other elements that users with this profile see when creating records with the associated record type.It controls details page and edit page. 
+
+What is page layout assignment?<br>
+Page layout assignment defines which page layout assigns to which profile, it is a table matrix which have page layouts in column and profiles in row.
 
 Modify page layout: https://youtu.be/gHHXE3FcxJM?si=J-hAfYB5odXILk5U&t=277  
 
