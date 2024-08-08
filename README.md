@@ -504,6 +504,9 @@ Lead process outlines the stages a lead must go through in order to qualify for 
 What is customer community?<br>
 Customer Community is a Salesforce feature that allows organizations to create a self-service portal for their customers, partners, or employees. It provides a platform for external users to interact with the company, access information, and submit requests.
 
+What is partner user?<br>
+Partner users are Salesforce users with access to CRM objects, such as opportunities, leads, and campaigns. Partner users can access and modify the Salesforce data you share with them by logging in to a portal.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
