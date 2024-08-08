@@ -501,6 +501,9 @@ Territory management is the process by which sellers prioritize and manage a gro
 What is lead process?<br>
 Lead process outlines the stages a lead must go through in order to qualify for a sales opportunity. It describes the procedures for qualifying leads, fostering them, and finally turning them into real clients.
 
+What is customer community?<br>
+Customer Community is a Salesforce feature that allows organizations to create a self-service portal for their customers, partners, or employees. It provides a platform for external users to interact with the company, access information, and submit requests.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
