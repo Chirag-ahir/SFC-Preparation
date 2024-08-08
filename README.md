@@ -12,6 +12,9 @@ Sell your product to prospects is known as sales.
 What is sales process?<br>
 A sales process maps out the stages an opportunity follows through its sales cycle, affecting what’s available to view in a sales path. Within a specific sales process, you can easily add and remove stages.
 
+What Is a Sales Pipeline?<br>
+A sales pipeline is a visual representation of where all of your prospects are in the sales process.
+
 What is salesforce?<br>
 Salesforce is a cloud-based CRM platform that helps business to manage their sales, marketing and customer service activities. 
 
