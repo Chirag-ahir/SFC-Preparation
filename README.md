@@ -507,6 +507,9 @@ Customer Community is a Salesforce feature that allows organizations to create a
 What is partner user?<br>
 Partner users are Salesforce users with access to CRM objects, such as opportunities, leads, and campaigns. Partner users can access and modify the Salesforce data you share with them by logging in to a portal.
 
+What is pipeline?<br>
+Pipeline is a comprehencive view of a sales representative's open opportunities, no matter what stage they are in. It includes everything from newest prospect to the opportunity with a pen in hand, ready to sign.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
