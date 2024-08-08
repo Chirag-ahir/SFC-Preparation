@@ -513,7 +513,8 @@ Pipeline is a comprehencive view of a sales representative's open opportunities,
 What is NPS?<br>
 NPS (Net Promoter Score) is a cutomer loyalti metric that measures how likely a customer is to recommand a company's product or service to others.
 
-
+What is sales contract?<br>
+A sales contract is an agreement between a buyer and a seller. The seller agrees to deliver a product or service for a set price that the buyer agrees to pay.
 
 
 
