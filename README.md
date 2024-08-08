@@ -522,6 +522,8 @@ A sales contract is an agreement between a buyer and a seller. The seller agrees
 What is Opportunity Teams?
 Opportunity Teams are designed to facilitate collaboration on specific sales deals (opportunities). They enable multiple users to work together to close a sales opportunity, with each member possibly playing a different role in the sales process.
 
+What is OpportunityTeamMember?<br>
+OpportunityTeamMember is a junction object between Opportunity and User. This junction object will be create under Opportunity Team.
 
 ====================================SFMC=====================================<br>
 
