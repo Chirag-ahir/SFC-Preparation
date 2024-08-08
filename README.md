@@ -510,6 +510,14 @@ Partner users are Salesforce users with access to CRM objects, such as opportuni
 What is pipeline?<br>
 Pipeline is a comprehencive view of a sales representative's open opportunities, no matter what stage they are in. It includes everything from newest prospect to the opportunity with a pen in hand, ready to sign.
 
+What is NPS?<br>
+NPS (Net Promoter Score) is a cutomer loyalti metric that measures how likely a customer is to recommand a company's product or service to others.
+
+
+
+
+
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
