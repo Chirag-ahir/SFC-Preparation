@@ -525,6 +525,9 @@ Opportunity Teams are designed to facilitate collaboration on specific sales dea
 What is OpportunityTeamMember?<br>
 OpportunityTeamMember is a junction object between Opportunity and User. This junction object will be create under Opportunity Team.
 
+What is COntact Role?<br>
+COntact Role is a junction object which allows multiple contacts to be linked to Opportunity, demonstrating a many-to-many relationship between opportunity and contact.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
