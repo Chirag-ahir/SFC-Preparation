@@ -546,6 +546,9 @@ Data Export Service is a tool that allows you to export your organization's data
 What is pricebook?<br>
 A price book is a list of products and their prices for a specific segment of customers or market.
 
+What is Lead conversion field mapping?<br>
+Lead Conversion Field Mapping feature allows you to map custom fields from lead to (ACO) Account, Contact and Opportunity so that no data loss will be occurs. You can find button for “Map Lead Fields” under Field & Relationships section on Lead object.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
@@ -660,9 +663,5 @@ Setup Assistant is a prioritized account configuration checklist that guides you
 What is IP Allowlist?<br>
 IP Allowlist is a feature that restricts API access to Marketing Cloud from a specific set of IP addresses. 
 
- 
-
 What is Scrum?<br>
 Scrum is a process, with defined roles, meetings, and deliverables that provides the framework to deliver high-quality value to our customers faster.
-
-
