@@ -534,6 +534,12 @@ COntact Role is a junction object which allows multiple contacts to be linked to
 What is setup audit trail?<br>
 Setup Audit Trail is a tool that tracks the recent setup changes made by anyone in an org. It can help identify who made what changes and when, as well as any errors or failures that occurred during the changes. It displays 20 most recent changes on screen and you can export last 6 months (180 Days) of data using it.
 
+What is entitlement?<br>
+An entitlement is a record that represents a customer's right to receive support or service based on the terms of a contract or agreement. 
+
+What is Asset?<br>
+An asset is a record that represents a product that a customer has purchased. 
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
