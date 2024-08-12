@@ -349,8 +349,8 @@ Go to particular object > Field & Relationships > Deleted fields<br>
 How many duplicate rules we can create on object ?<br>
 You can use up to five active duplicate rules per object.
 
-How many fields we can track of object using field history tracking?<br>
-20
+How many fields you can track of object using field history tracking?<br>
+20 fields per object (Retention period is 18 months)
 
 What are different ty[es of cloud in salesforce?
 Sales cloud
