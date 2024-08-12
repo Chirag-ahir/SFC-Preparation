@@ -549,6 +549,11 @@ A price book is a list of products and their prices for a specific segment of cu
 What is Lead conversion field mapping?<br>
 Lead Conversion Field Mapping feature allows you to map custom fields from lead to (ACO) Account, Contact and Opportunity so that no data loss will be occurs. You can find button for “Map Lead Fields” under Field & Relationships section on Lead object.
 
+What is campaign influence?<br>
+Campaign Influence is a tool that helps you attribute a percentage of success to influential campaigns. The main purpose of Campaign Influence is to identify the return on your campaign investments.
+
+CampaignInfluence = CAmpaign + Opportunity
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
