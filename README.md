@@ -531,6 +531,9 @@ OpportunityTeamMember is a junction object between Opportunity and User. This ju
 What is COntact Role?<br>
 COntact Role is a junction object which allows multiple contacts to be linked to Opportunity, demonstrating a many-to-many relationship between opportunity and contact.
 
+What is setup audit trail?<br>
+Setup Audit Trail is a tool that tracks the recent setup changes made by anyone in an org. It can help identify who made what changes and when, as well as any errors or failures that occurred during the changes. It displays 20 most recent changes on screen and you can export last 6 months (180 Days) of data using it.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
