@@ -543,6 +543,9 @@ An asset is a record that represents a product that a customer has purchased.
 What is data export service?<br>
 Data Export Service is a tool that allows you to export your organization's data to a set of comma-separated values (CSV) files and store them in a backup location of your choice. You can schedule this service to run weekly or monthly and receive an email notification when your files are ready to download.
 
+What is pricebook?<br>
+A price book is a list of products and their prices for a specific segment of customers or market.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
