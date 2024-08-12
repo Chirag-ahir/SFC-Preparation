@@ -129,10 +129,10 @@ What are different levels of Data level security?<br>
     - “Field Accessibility” is a one place to set security for all profile at once<br>
 4. Record level security: Three permission: (Public read/write + Public read only + Private)<br>
     - Four level<br>
-    - Organization wide default (Baseline level of access)<br>
+    - Organization wide default (Baseline level of access) (Private, Public Read Only, Public Read/Write, Public Read/Write/Transfer, Controlled by parent) <br>
     - Role hierarchy (E.g., Manager will have access to all VP)<br>
-    - Sharing rules (Automatically share the rule)<br>
-    - Manual sharing (Sharing rules manually)<br>
+    - Sharing rules (Automatically share the rule) (Read Only, Read/Write)<br>
+    - Manual sharing (Sharing record manually) (Read Only, Read/Write)<br>
 
 User management - Manage/Remove person to access org: https://youtu.be/PKpXBb-9s54?si=4PHjSY0aR18I5KMS&t=1274<br>
 Assign Permission set to user: https://youtu.be/4X1xyvon4E8?si=r_oYcviNWcOZqdwI&t=806<br>
