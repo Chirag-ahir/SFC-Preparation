@@ -34,6 +34,9 @@ Standard objects are objects that are included with Salesforce. Common business 
 What is a custom object?<br>
 Custom objects are objects that you create to store information that’s specific to your company or industry. For DreamHouse, D’Angelo wants to build a custom Property object that stores information about the homes his company is selling.
 
+What is lightning object creator?<br>
+Lightning Object Creator can automatically map spreadsheet columns to fields and create relationships between objects. Lightning Object Creator can be used to create a custom object from a spreadsheet and import records at the same time.
+
 What is list view in SFC?
 A list view is a filtered list of records where you can view records for one object at a time. For example, a list of Contacts, Accounts, or Opportunities.
 
