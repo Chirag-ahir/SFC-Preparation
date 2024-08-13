@@ -554,6 +554,9 @@ Campaign Influence is a tool that helps you attribute a percentage of success to
 
 CampaignInfluence = CAmpaign + Opportunity
 
+What is Forecasting?<br>
+Forecasting is a projection of future sales, It gives you idea "which deals will be won and in what time period"
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
