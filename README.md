@@ -560,6 +560,9 @@ Two types of forecating:<br>
 1. Collaborative Forecasting<br>
 2. Customizable Forecating
 
+What is KPI?<br>
+KPI Defines average converted leads per sales rep.
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
