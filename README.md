@@ -555,7 +555,10 @@ Campaign Influence is a tool that helps you attribute a percentage of success to
 CampaignInfluence = CAmpaign + Opportunity
 
 What is Forecasting?<br>
-Forecasting is a projection of future sales, It gives you idea "which deals will be won and in what time period"
+Forecasting is a projection of future sales, It gives you idea "which deals will be won and in what time period"<br>
+Two types of forecating:<br>
+1. Collaborative Forecasting<br>
+2. Customizable Forecating
 
 ====================================SFMC=====================================<br>
 
