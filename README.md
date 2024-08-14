@@ -566,6 +566,9 @@ KPI Defines average converted leads per sales rep.
 What is Account Hierarchy?<br>
 AccountHierarchy gives you global view of a company and it's subsidiaries by creating an association through the Parant Account field (Self Lookup Relationship Field)
 
+How many records Kanban view can display on screen?<br>
+200 Records
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
