@@ -573,7 +573,8 @@ What is Lightning Usage App?<br>
 The Lightning Usage App in Salesforce provides insights into how users are adopting and using the Lightning Experience, including the Lightning Sales Console. It includes metrics such as daily active users, most visited pages, and feature usage. This tool is specifically designed to help administrators and consultants understand adoption patterns and areas that may need attention or additional training.
 
 
-
+What is Data management plan?<br>
+A data management plan outlines the processes and responsibilities for maintaining data quality, including data cleansing and validation procedures. A data quality dashboard provides visibility into data quality issues, helping the team monitor and address them proactively. 
 
 
 ====================================SFMC=====================================<br>
