@@ -569,6 +569,13 @@ AccountHierarchy gives you global view of a company and it's subsidiaries by cre
 How many records Kanban view can display on screen?<br>
 200 Records
 
+What is Lightning Usage App?<br>
+The Lightning Usage App in Salesforce provides insights into how users are adopting and using the Lightning Experience, including the Lightning Sales Console. It includes metrics such as daily active users, most visited pages, and feature usage. This tool is specifically designed to help administrators and consultants understand adoption patterns and areas that may need attention or additional training.
+
+
+
+
+
 ====================================SFMC=====================================<br>
 
 What are different email terminologies used in SFMC:<br>
