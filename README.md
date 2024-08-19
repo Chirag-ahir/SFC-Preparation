@@ -444,7 +444,7 @@ What is ant migration tool?<br>
 The ANT Migration tool is a command line utility tool to retrieve, deploy and delete metadata from a Salesforce Instance.
 
 What is change set?<br>
-Change set is a powerful tool for deploying customizations and changes between Salesforce orgs. Change sets can contain a variety of components like Apex code, objects, fields, page layouts, and more, which can be deployed from a sandbox environment to a production environment or from one sandbox to another.
+ A change set is a deployment tool in Salesforce that allows you to move customizations, such as email templates, from one Salesforce organization to another. Change sets can contain a variety of components like Apex code, objects, fields, page layouts, and more, which can be deployed from a sandbox environment to a production environment or from one sandbox to another.
 
 What is Export data settings?<br>
 Export Data Settings is a feature that allows you to control which users can export data from Salesforce and how much data they can export at a time. You can enable or disable the Export Reports permission for different profiles or permission sets, and set a maximum number of records that can be exported per hour for your org
