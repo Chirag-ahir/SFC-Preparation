@@ -53,6 +53,7 @@ Data Loader is a client application for the bulk import or export of data. Use i
 - When you import data into salesforce through dataloader, once import completes success file and error file wil generate which will show you results & errors of your operation.<br>
 - While exporting data through dataloader, it is allowing you to select which fields you want to export for any object also allow you to add any filter condition.<br>
 - While importing data you can save .sdl mapping file into dataloader.
+- Data Loader supports DD-MM-YYYY date formats for date based values.
 - Watch complete video here: https://youtu.be/fnPXaq5A-2c?si=j1DbTCtQIBa7ec3r
 
 What are two ways to import data into SFC?<br>
