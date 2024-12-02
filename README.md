@@ -244,6 +244,9 @@ Big Deal Alerts automatically email your users whenever an opportunity reaches a
 What access we can give in salesforce dashboard folder?<br>
 View, Edit and Manage
 
+What is dashboard?<br>
+A dashboard is a visual representation of salesforce data from one or more salesforce reports that helps users to identify trends and patterns to make informed business decisions. 
+
 What is report in salesforce?<br>
 Reports in Salesforce are powerful tools that help users analyze and visualize their data. They allow users to summarize, filter, and organize data to gain valuable insights, track performance, and support informed decision-making.
 
