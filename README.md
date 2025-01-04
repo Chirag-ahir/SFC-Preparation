@@ -22,7 +22,7 @@ What is case?<br>
 A case is a customizable record in Salesforce that tracks and describes a customer issue, complaint, request.
 
 What is object?<br>
-Object in salesforc represents a entity which stores particular type of information in our database. 
+Objects are database tables that allow you to store data specific to your organization.
 
 [Table in DB represent as a object for SFC]
 [Column in table represent as a field for SFC]
@@ -739,3 +739,6 @@ SOSL Stands for salesforce object search language, it is used to perform text-ba
 
 What is WhoID and WhatID in activities?<br>
 WhoID refers to people things, WhatID refers to object type things. Ex of WhoID would be LeadID or ContactID, Ex of WhatID would be AccountID or OpportunityID.
+
+What is Role?<br>
+Role controls the level of visibility that users have for organization's data.
