@@ -46,7 +46,7 @@ What is Record ID in salesforce?<br>
 Record Ids are the 15 Digit unique values for each record in Salesforce.
 
 What is Schema Builder?
-Schema Builder is a tool that lets you visualise and edit your data model. It’s useful for designing and understanding complex data models like the company’s employees and all sales (Setup > Schema Builder)
+Schema Builder is a tool that lets you visualise and edit your company data model. It’s useful for designing and understanding complex data models like the company’s employees and all sales (Setup > Schema Builder)
 
 What is Data loader?<br>
 Data Loader is a client application for the bulk import or export of data. Use it to insert, update, delete, or export Salesforce records.<br>
@@ -66,12 +66,6 @@ Data loader (As many as you want but not works in professional edition)
 
 What is validation rules?<br>
 Validation rule used to validate data when entering data into salesforce.
-
-What is detail page?<br>
-When you open any student record in salesforce what you see is detail page. You can find field like name, phone no, DOB on detail page.
-
-What is edit page?<br>
-When you click on edit record button, the page you see on pop-up window is edit page.
 
 What is user license in SFC?<br>
 User license defines which type of functionality user can access in salesforce.
@@ -94,6 +88,9 @@ Compact layouts control which fields your users see in the highlights panel at t
 
 customize compact layout: https://trailhead.salesforce.com/content/learn/modules/salesforce1_mobile_app/salesforce1_mobile_app_compact_layouts
 
+What is Role?<br>
+Role is a record-level access in salesforce that defines the visibility access of user. 
+
 What is Profile?<br>
 Profile is collection of settings and permission which define what user will be able to see and what user will be able to do. Two types of profile in salesforce: Standard Profile and Custom Profile.
 
@@ -105,6 +102,8 @@ No user can restrict the acess of user that he has got from profile using permis
 
 One user only assign to one profile, <br>
 But one user can be assigned to multiple permission sets.
+
+One permission set can be assigned to 1000 users only.
 
 Is it possible to delete a user from SFC completely?<br>
 You can not delete a user completely at all from SFC, It's not allowed to delete a user from SFC in any org. But you can revoke the access of user by making that user inactive (Setup > Users > User > Uncheck active box)
@@ -546,7 +545,7 @@ Opportunity Teams are designed to facilitate collaboration on specific sales dea
 What is OpportunityTeamMember?<br>
 OpportunityTeamMember is a junction object between Opportunity and User. This junction object will be create under Opportunity Team.
 
-What is COntact Role?<br>
+What is Contact Role?<br>
 COntact Role is a junction object which allows multiple contacts to be linked to Opportunity, demonstrating a many-to-many relationship between opportunity and contact.
 
 What is setup audit trail?<br>
@@ -754,9 +753,6 @@ SOSL Stands for salesforce object search language, it is used to perform text-ba
 What is WhoID and WhatID in activities?<br>
 WhoID refers to people things, WhatID refers to object type things. Ex of WhoID would be LeadID or ContactID, Ex of WhatID would be AccountID or OpportunityID.
 
-What is Role?<br>
-Role controls the level of visibility that users have for organization's data.
-
 What is OWD?<br>
 OWD is a baseline level of access for all the users in your org for that particular object. 
 
@@ -793,4 +789,11 @@ Conditional Highlightning is a powerful way to show values in report within givn
 
 Is it possible to schedule a dynamic dashboard?<br>
 No, we can not schedule dynamic dahsboard in salesforce. 
+
+What are the different editions of salesforce?<br>
+Essential Edition<br>
+Professional Edition<br>
+Enterprise Edition<br>
+Unlimited Edition<br>
+Developers Edition<br>
 
