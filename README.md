@@ -737,4 +737,5 @@ SOQL stands for salesforce object query langauge, it is used to retrive the reco
 What is SOSL?<br>
 SOSL Stands for salesforce object search language, it is used to perform text-based search on all/multiple objects in database irrespective of the object.
 
-
+What is WhoID and WhatID in activities?<br>
+WhoID refers to people things, WhatID refers to object type things. Ex of WhoID would be LeadID or ContactID, Ex of WhatID would be AccountID or OpportunityID.
