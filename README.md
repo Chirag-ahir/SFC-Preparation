@@ -778,3 +778,6 @@ Whats is detail page and edit page?<br>
 - Whenever user tries to create a new record or edit an existing record user can input the valuesfor the fields, this page is nothing but edit page.
 - After creating a new record or editing an existing record user can see the information of the record, this page is detail page.
 
+Can we create a new profile directly without cloning an existing profile?<br>
+No, it's never allowed to create that way, you always needs to clone existing profile to create a new one.
+
