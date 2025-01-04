@@ -724,11 +724,7 @@ What is object relationships in salesforce?<br>
 Object relationships is used to link custom object records to standard object records in a related list.
 
 What are workflows?<br>
-Workflow allows us to automate the business process without writing any code with the following four actions:<br>
-- Field Update<br>
-- Email Alert <br>
-- Task Creation<br>
-- Outbound Message<br>
+Workflow is an automation tool used to automate the business processes such as email alert, field update, task creation and outbound message. Workflows are stored into workflow object.
 
 What is External ID in salesforce?<br>
 An External ID is a custom field which can be used as a unique identifier in a record. They are basically just IDs which are mainly used while importing records/data.
@@ -794,4 +790,7 @@ What are ways we can make field as required?<br>
 
 What is conditional highlighting?<br>
 Conditional Highlightning is a powerful way to show values in report within givn limits. Using conditional highlightning, we can specify colors for different ranges of values in reports.
+
+Is it possible to schedule a dynamic dashboard?<br>
+No, we can not schedule dynamic dahsboard in salesforce. 
 
