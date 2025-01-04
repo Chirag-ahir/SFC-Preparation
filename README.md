@@ -721,6 +721,11 @@ Workflow allows us to automate the business process without writing any code wit
 What is External ID in salesforce?<br>
 An External ID is a custom field which can be used as a unique identifier in a record. They are basically just IDs which are mainly used while importing records/data.
 
+What are Dynamic dashboards?<br>
+Dynamic dashboards are used to display information which is tailored to specific user. 
+
+
+
 
 
 
