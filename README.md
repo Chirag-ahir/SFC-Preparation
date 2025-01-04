@@ -263,7 +263,10 @@ The Customer Report in Salesforce is a type of report that focuses on customer d
 - Marketing Reports: Analyzing customer responses to marketing campaigns and engagement levels.<br>
 
 What is bucket field?<br>
-Bucket fields in Salesforce reports allow users to categorize report records into groups without creating complex formulas or custom fields. For example, you can create a bucket field to categorize accounts based on their annual revenue ranges or to group leads by age groups. 
+Bucket fields in Salesforce reports allow users to categorize report records into groups without creating complex formulas or custom fields. For example, you can create a bucket field to categorize accounts based on their annual revenue ranges or to group leads by age groups. Bucket field supports below field types.<br>
+- Picklist
+- Number
+- Text
 
 What is report builder?<br>
 The report builder is a visual drag and drop tool which you use to create reports and edit existing ones. The report builder is where you choose a report type, report format, and the fields that make up your report.
@@ -788,3 +791,7 @@ What are ways we can make field as required?<br>
 - While creating of field
 - Validation rules
 - Page layout
+
+What is conditional highlighting?<br>
+Conditional Highlightning is a powerful way to show values in report within givn limits. Using conditional highlightning, we can specify colors for different ranges of values in reports.
+
