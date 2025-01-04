@@ -724,6 +724,12 @@ An External ID is a custom field which can be used as a unique identifier in a r
 What are Dynamic dashboards?<br>
 Dynamic dashboards are used to display information which is tailored to specific user. 
 
+What are different dashboard components are available?<br>
+- Charts
+- Guage
+- Metrics
+- Table
+- Visulforce Page
 
 
 
