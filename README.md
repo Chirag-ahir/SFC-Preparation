@@ -734,3 +734,7 @@ What are different dashboard components are available?<br>
 What is SOQL?<br>
 SOQL stands for salesforce object query langauge, it is used to retrive the records out of the salesforce database into an apex program. 
 
+What is SOSL?<br>
+SOSL Stands for salesforce object search language, it is used to perform text-based search on all/multiple objects in database irrespective of the object.
+
+
