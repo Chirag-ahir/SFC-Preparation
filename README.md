@@ -697,3 +697,6 @@ IP Allowlist is a feature that restricts API access to Marketing Cloud from a sp
 
 What is Scrum?<br>
 Scrum is a process, with defined roles, meetings, and deliverables that provides the framework to deliver high-quality value to our customers faster.
+
+What do you understand by Visualforce?<br>
+Visualforce is a framework that allows developers to build custom user interfaces that can be hosted on the Lightning platform. 
