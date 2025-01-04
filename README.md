@@ -730,6 +730,12 @@ Workflow allows us to automate the business process without writing any code wit
 What is External ID in salesforce?<br>
 An External ID is a custom field which can be used as a unique identifier in a record. They are basically just IDs which are mainly used while importing records/data.
 
+For which data types we can enable external id?<br>
+- Text
+- Number
+- Auto number
+- Email
+
 What are Dynamic dashboards?<br>
 Dynamic dashboards are used to display information which is tailored to specific user. 
 
@@ -767,3 +773,8 @@ Tab is UI functionality using which you can access salesforce object data, There
 - Web Tab
 - Lightning Tab
 - Visualforce Tab
+
+Whats is detail page and edit page?<br>
+- Whenever user tries to create a new record or edit an existing record user can input the valuesfor the fields, this page is nothing but edit page.
+- After creating a new record or editing an existing record user can see the information of the record, this page is detail page.
+
