@@ -156,11 +156,10 @@ The Lightning App Builder is a point-and-click tool that makes it easy to create
 What is alias is SFC?<br>
 An alias is a short name to identify the user on list pages, reports, or other places where their entire name doesn't fit. 
 
-What is leads in SFC?<br>
-Leads are people who are interested in your product and service.<br>
-Two typesof leads in SFC:<br>
-1. B2B Customer<br>
-2. B2C Customer
+What is lead?<br>
+leads are the customers who is interested in buying your company products. Two typesof leads:<br>
+1. B2B Leads<br>
+2. B2C Leads
 
 Create new lead in SFC: https://youtu.be/IIpFA3mMR8s?si=D__GcQhUZYQx1fxU&t=2 
 
