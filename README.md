@@ -700,3 +700,10 @@ Scrum is a process, with defined roles, meetings, and deliverables that provides
 
 What do you understand by Visualforce?<br>
 Visualforce is a framework that allows developers to build custom user interfaces that can be hosted on the Lightning platform. 
+
+What is the difference betwen Roles and Profiles?<br>
+Role controls the level of visibility that users have in organization's data while profile is all about collection of settings and permissions that defines what user will be able to see and what user will be able to do. Role is not mandatory while profile is madatory. 
+
+
+
+
