@@ -781,3 +781,10 @@ Whats is detail page and edit page?<br>
 Can we create a new profile directly without cloning an existing profile?<br>
 No, it's never allowed to create that way, you always needs to clone existing profile to create a new one.
 
+Is it possible to insert Null values inside Data loader?<br>
+Yes, There is a option in Data loader settings to enable checkbox of "Insert null values" to allow dataloader to insert null values into salesforce otherwise it will not insert null values.
+
+What are ways we can make field as required?<br>
+- While creating of field
+- Validation rules
+- Page layout
