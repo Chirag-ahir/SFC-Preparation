@@ -47,6 +47,10 @@ Record Ids are the 15 Digit unique values for each record in Salesforce.
 
 What is Schema Builder?
 Schema Builder is a tool that lets you visualise and edit your company data model. It’s useful for designing and understanding complex data models like the company’s employees and all sales (Setup > Schema Builder)
+- You can delete the object
+- You can delete the field
+- You can change the object properties such as name, label
+- You can set field permissions such as (Visible, Read Only)
 
 What is Data loader?<br>
 Data Loader is a client application for the bulk import or export of data. Use it to insert, update, delete, or export Salesforce records.<br>
@@ -196,7 +200,7 @@ What is lead auto response rule?<br>
 Lead auto-response rule is a feature that automatically sends an email to a lead or contact when they trigger a specific condition. 
 
 What are total number of workflows can be create per object?<br>
-25
+50
 
 What is A/B testing?<br>
 If you have a two different content or two different email and you want to see which content performing well then you can use A/B testing.
@@ -798,3 +802,9 @@ Enterprise Edition<br>
 Unlimited Edition<br>
 Developers Edition<br>
 
+What is process builder?<br>
+Salesforce Process Builder is an automated tool that allows you to control the order of actions or evaluate the criteria for a record. 
+
+How many fields we can create on an object?<br>
+Professional: 100<br>
+Unlimited: 500<br>
