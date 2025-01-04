@@ -742,3 +742,11 @@ WhoID refers to people things, WhatID refers to object type things. Ex of WhoID 
 
 What is Role?<br>
 Role controls the level of visibility that users have for organization's data.
+
+What is OWD?<br>
+OWD is a baseline level of access for all the users in your org for that particular object. 
+
+What is Salesforce1?<br>
+Salesforce1 is one of the product provided by Salesforce.com. It is a mobile application for Android and iOS devices. 
+
+
