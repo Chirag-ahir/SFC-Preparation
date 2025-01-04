@@ -731,7 +731,6 @@ What are different dashboard components are available?<br>
 - Table
 - Visulforce Page
 
-
-
-
+What is SOQL?<br>
+SOQL stands for salesforce object query langauge, it is used to retrive the records out of the salesforce database into an apex program. 
 
