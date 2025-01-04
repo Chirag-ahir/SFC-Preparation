@@ -487,7 +487,7 @@ What objects are supported in Mass Delete Records?<br>
 ![image](https://github.com/user-attachments/assets/6d0f7f1a-cd03-4e0f-a32b-7d8425134482)
 
 What is dashboard filters?<br>
-Dashboard filter helps you narrow things down by a certain subset. Each dashboard can have up to 3 filters (or up to 5 filters for Unlimited Edition and Performance Edition),
+Dashboard filter helps you narrow things down by a certain subset. Each dashboard can have up to 3 filters (or up to 5 filters for Unlimited and Performance Edition), Each filter can have 50 filter values inside it.
 
 What is contact to multiple accounts feature?<br>
 The Contact to Multiple Accounts feature enables users to associate a contact with multiple accounts, without creating duplicate contacts. This feature is useful for scenarios where a contact has relationships with more than one account, such as a consultant or an influencer.
