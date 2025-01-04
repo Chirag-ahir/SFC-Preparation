@@ -758,3 +758,10 @@ Salesforce1 is one of the product provided by Salesforce.com. It is a mobile app
 
 What is AppExchange?<br>
 AppExchange is a online marketplace tool for salesforce like apple store or google play store.
+
+what is Tab in salesforce?<br>
+Tab is UI functionality using which you can access salesforce object data, There are four types of tabs available in salesforce.<br>
+- Custom Tab
+- Web Tab
+- Lightning Tab
+- Visualforce Tab
