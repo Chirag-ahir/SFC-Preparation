@@ -749,4 +749,5 @@ OWD is a baseline level of access for all the users in your org for that particu
 What is Salesforce1?<br>
 Salesforce1 is one of the product provided by Salesforce.com. It is a mobile application for Android and iOS devices. 
 
-
+What is AppExchange?<br>
+AppExchange is a online marketplace tool for salesforce like apple store or google play store.
