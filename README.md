@@ -277,18 +277,18 @@ The report builder is a visual drag and drop tool which you use to create report
 What is reporting snapshot?<br>
 A Reporting Snapshot in Salesforce is a tool that captures the data from report results at scheduled intervals and saves it as records in a custom object. This feature enables users to track and report on historical data trends over time. 
 
-Explain Tabular report <br>
+Explain Tabular report format<br>
 -This report is the simplest and fastest way to look at data. Similar to spreadsheets, it consists simply of an ordered set of fields in columns, with each matching record listed in a row.<br>
 -Use this report type for creating lists of records or a list with a single grand total.<br>
 -They can't be used to create groups of data or charts, and can't be used in dashboards unless rows are limited.<br>
 -Examples include contact mailing lists and activity reports<br>
 
-Explain Summary report <br>
+Explain Summary report format<br>
 -This report is similar to a tabular report, but allow users to group rows of data, view subtotals, and create charts.<br>
 -It can be used as the source report for dashboard components.<br>
 -Use this type of report to show subtotals based on the value of a particular field, or when you want to create a hierarchical list, such as all opportunities for your team, subtotal by Stage and Owner.<br>
 
-Explain matrix report<br>
+Explain matrix report format<br>
 -Matrix reports allow you to group and summarize data by both rows and columns.<br>
 -They can be used as the source report for dashboard components.<br>
 -Use this type of report for comparing related totals, especially if you have large amounts of data to summarize and you need to compare values in several different fields, or you want to look at data by date and by product, person, or geography.<br>
@@ -310,6 +310,9 @@ Event Monitoring is one of many tools that Salesforce provides to help keep your
 Which URL you need to use for login into Production org and Sandbox?<br>
 Production: You can use https://login.salesforce.com/<br>
 Sandbox: You can use http://test.salesforce.com/
+
+What is Sandbox?<br>
+Sandbox is a copy of the production environment, used for testing and development purposes. Sandbox will automatically gets deleted if no one log into for 180 days.
 
 How to login to sandbox?<br>
 Users can log into the sandbox at https://test.salesforce.com by appending .sandbox_name to their Salesforce usernames. For example, if a username for a production organization is user1@acme.com, and the sandbox is named “test”, then the modified username to log into the sandbox is user1@acme.com.test.
