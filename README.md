@@ -350,11 +350,12 @@ Case Status - 100<br>
 Opportunity Stage - 100<br>
 
 What are different realtionships available in salesforce?<br>
-- Lookup relationship
-- Master-detail relationship
+- Lookup relationship - It is a loosely coupled relationship between two objects where parent and child record is not strongly coupled with each other. (50)<br>
+- Master-detail relationship - It's a strongly coupled relationship between two objects, which means if we delete parant record child record will also gets deleted.(2)<br>
 - Many-to-Many relationship
-- Hierarchical relationship
+- Hierarchical relationship (User Object)
 - External lookup relationship
+- Self Relationship - Self Relationship is a lookup relationship to the same object. (Account Object)
 
 What are the diffference between Lookup and Master Detail relationship?<br>
 ![image](https://github.com/Chirag-ahir/SFC-Preparation/assets/72852725/379a4f80-0a2e-4333-8423-8cbcfa343790)
