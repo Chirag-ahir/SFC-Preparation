@@ -250,6 +250,7 @@ A dashboard is a visual representation of salesforce data from one or more sales
 What is report in salesforce?<br>
 Reports in Salesforce are powerful tools that help users analyze and visualize their data. They allow users to summarize, filter, and organize data to gain valuable insights, track performance, and support informed decision-making.
 -- We can add 20 filters in report<br>
+-- We can add max 256 columns in report<br>
 -- Report can display max 2000 records<br>
 -- In joined report we can add 5 blocks<br>
 
