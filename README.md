@@ -713,7 +713,9 @@ What do you understand by Visualforce?<br>
 Visualforce is a framework that allows developers to build custom user interfaces that can be hosted on the Lightning platform. 
 
 What is the difference betwen Roles and Profiles?<br>
-Role controls the level of visibility that users have in organization's data while profile is all about collection of settings and permissions that defines what user will be able to see and what user will be able to do. Role is not mandatory while profile is madatory. 
+- Role controls the level of visibility that users have in organization's data while profile is all about collection of settings and permissions that defines what user will be able to see and what user will be able to do.
+- Role controls record level access while profile controls object level access.
+- Role is not mandatory while profile is madatory. 
 
 What is object relationships in salesforce?<br>
 Object relationships is used to link custom object records to standard object records in a related list.
