@@ -707,6 +707,12 @@ Role controls the level of visibility that users have in organization's data whi
 What is object relationships in salesforce?<br>
 Object relationships is used to link custom object records to standard object records in a related list.
 
+What are workflows?<br>
+Workflow allows us to automate the business process without writing any code with the following four actions:<br>
+- Field Update<br>
+- Email Alert <br>
+- Task Creation<br>
+- Outbound Message<br>
 
 
 
