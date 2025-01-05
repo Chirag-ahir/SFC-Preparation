@@ -338,7 +338,7 @@ What are permission sets groups?<br>
 With permission set groups, you can bundle permission sets together based on a job function. A permission set group includes all permissions in the permission sets. You can even include a permission set in more than one permission set group.
 
 What is Quote in CPQ?<br>
-A quote is a negotiated price given to the customer which is valid for specific time.
+A quote is a negotiated price given to the customer which is valid for specific period of time. Opportunities can contain multiple quotes and quotes are created from an opportunity and it's products.
 
 What is bundle in CPQ?<br>
 A collection of products that's sold together is called a bundle.
@@ -569,8 +569,11 @@ An asset is a record that represents a product that a customer has purchased.
 What is data export service?<br>
 Data Export Service is a tool that allows you to export your organization's data to a set of comma-separated values (CSV) files and store them in a backup location of your choice. You can schedule this service to run weekly or monthly and receive an email notification when your files are ready to download.
 
-What is pricebook?<br>
+What is price book?<br>
 A price book is a list of products and their prices for a specific segment of customers or market.
+
+What is standard price book?<br>
+The standard price book is automatically generated which contains master list of all products and standard prices regardless of the custom pice books that also contain them.
 
 What is Lead conversion field mapping?<br>
 Lead Conversion Field Mapping feature allows you to map custom fields from lead to (ACO) Account, Contact and Opportunity so that no data loss will be occurs. You can find button for “Map Lead Fields” under Field & Relationships section on Lead object.
