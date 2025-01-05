@@ -167,7 +167,7 @@ What is lead assignment rules?<br>
 Lead Assignment Rules are used to automatically assign lead records to a particular user or queue based on different conditions.
 
 What is campaign?<br>
-It is a collection of Leads and Contacts who have been introduced to specific advertising messages.
+Campains are outbound marketing projects that we can manage, plan and track using marketing marketing intiatives. It is a collection of Leads and Contacts who have been introduced to specific advertising messages.
 
 What is Account?<br>
 Account is a standard object where we storing customer, prospect and partners data. Acccount contains data of leads and contacts. 
@@ -827,3 +827,10 @@ Starting and end date of a company financial year is considered as Fiscal year. 
 
 What is enhanced list view?<br>
 In the list views we can modify multiple record fields at once without going to each record page one by one using Enhanced list view. All records should belong to same record type in the list view.
+
+What are the four licenses for service cloud?<br>
+- Service Cloud User
+- Knowledge User
+- Chat User
+- Customer Community
+
