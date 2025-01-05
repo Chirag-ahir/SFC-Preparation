@@ -187,7 +187,9 @@ What is opportunity?<br>
 Opportunity records track details about deals, including which accounts they're for, who the players are, and the amount of potential sales.
 
 What is product object?<br>
-In product you are storing information of your service and product. 
+- In product you are storing information of your service and product.
+- Products are the actual items that you sell on your opportunities and quotes.
+- Products are associated to have one or more pricebooks to create price book entries.
 
 What is opportunity line item?<br>
 When we add a product to Opportunity it is called Opportunity Line Item which you use during your sales.
@@ -231,11 +233,11 @@ Use the Mass Transfer tool to transfer multiple accounts, leads, service contrac
 How many days after data will be deleted from recyclebin of SFC?<br>
 15 Days
 
-How many users we can add at once in SFC?<br>
+How many users we can add at once in salesforce?<br>
 10
 
 What is queues?<br>
-Queues automatically prioritize your support team’s workload by creating lists from which specific agents can jump in to resolve certain types of cases based on category. To efficiently distribute cases and get the right people involved for quicker resolution, creating queues that group support agents by expertise or function and utilizing assignment rules to automatically route cases to the appropriate queues is recommended. This approach streamlines case distribution, ensuring cases are handled by agents best equipped to resolve them promptly.
+Queues are automatically prioritize your support/sales team’s workload by creating lists from which specific agents can jump in to resolve certain types of cases based on category. To efficiently distribute cases and get the right people involved for quicker resolution, creating queues that group support agents by expertise or function and utilizing assignment rules to automatically route cases to the appropriate queues is recommended. This approach streamlines case distribution, ensuring cases are handled by agents best equipped to resolve them promptly.
 
 What is assignmennt rules?<br>
 Assignment rules automatically assign incoming cases to specific agents so that the right people work on the right cases.
@@ -330,7 +332,7 @@ Sharing rules are automatic exceptions to org-wide defaults for particular group
 Manual sharing lets record owners give read and edit permissions to users who might not have access to the record any other way.
 
 What is a public group?<br>
-A public group is a collection of individual users, other groups, individual roles or territories, and/or roles or territories with their subordinates that all have a function in common.
+A public group is a collection of individual users, other groups, individual roles or territories that all have a function in common. We can use public group in manual sharing, sharing rules, and in list views. 
 
 What are permission sets groups?<br>
 With permission set groups, you can bundle permission sets together based on a job function. A permission set group includes all permissions in the permission sets. You can even include a permission set in more than one permission set group.
