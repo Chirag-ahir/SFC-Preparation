@@ -356,8 +356,8 @@ Case Status - 100<br>
 Opportunity Stage - 100<br>
 
 What are different realtionships available in salesforce?<br>
-- Lookup relationship - It is a loosely coupled relationship between two objects where parent and child record is not strongly coupled with each other. (50)<br>
-- Master-detail relationship - It's a strongly coupled relationship between two objects, which means if we delete parant record child record will also gets deleted.(2)<br>
+- Lookup relationship - Lookup relationship is a feature that allows salesforce users to establish a connection between two objects making it possible to lookup one object from another object's related items. (50)<br>
+- Master-detail relationship - Master-detail is a one to many relationship which closly links objects together. Which means if we delete parent record child record also gets deleted (2)<br>
 - Many-to-Many relationship
 - Hierarchical relationship (User Object)
 - External lookup relationship
