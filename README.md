@@ -184,7 +184,7 @@ An individual's information only store in one of the 4 object:
 4. Users
 
 What is opportunity?<br>
-Opportunity records track details about deals, including which accounts they're for, who the players are, and the amount of potential sales.
+Opportunities are past or pending sales for an account that you want to work for. It tracks detail about deals, including which accounts they're for, who the players are, and the amount of potential sales.
 
 What is product object?<br>
 - In product you are storing information of your service and product.
