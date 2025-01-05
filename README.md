@@ -449,8 +449,7 @@ What are four types of apps in salesforce?<br>
 - app launcher – App launcher is an Icon   on top left from where you can access all apps in your org.<br>
 - app menu – App menu is a list of all application where you can set up order of apps for your users. You can find this app menu in the quick find box. <br>
 - app manager – App manager allows system admin to configure and customize available apps in your org. You can assign apps. Modify apps and modify how they appear. You can find this app manager in the quick find box.<br>
-- lightning app builder - Lightning app builder accessible from app manager as you click on edit button on any app it will redirect you to app builder. You can find this app builder in the quick find box.<br>
-Using lightnning app builder you can create App page, Home page, Record page, Embedded servie page, Voice extension, Omni supervisor page.
+- lightning app builder - Lightning app builder accessible from app manager as you click on edit button on any app it will redirect you to app builder. You can find this app builder in the quick find box. Using lightnning app builder you can create App page, Home page, Record page, Embedded servie page, Voice extension, Omni supervisor page.
 
 What is casecade delete inn salesforce?<br>
 Cascade delete is a relational database term used to describe the process by which child records are automatically deleted when their parent record is deleted
