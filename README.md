@@ -19,7 +19,7 @@ What is salesforce?<br>
 Salesforce is a cloud-based CRM platform that helps business to manage their sales, marketing and customer service activities. 
 
 What is case?<br>
-A case is a customizable record in Salesforce that tracks and describes a customer issue, complaint, request.
+A case is a customizable record in Salesforce that tracks and describes a customer issue, complaint or request. It's a foundation of the Service Cloud.
 
 What is object?<br>
 Objects are database tables that allow you to store data specific to your organization.
