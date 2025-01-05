@@ -53,7 +53,7 @@ Schema Builder is a tool that lets you visualise and edit your company data mode
 - You can set field permissions such as (Visible, Read Only)
 
 What is Data loader?<br>
-Data Loader is a client application for the bulk import or export of data. Use it to insert, update, delete, or export Salesforce records.<br>
+Data Loader is a client application for the bulk import or export of data. It supports insert, update, delete, hard delete, export and export all operations for salesforce records. <br>
 - When you import data into salesforce through dataloader, once import completes success file and error file wil generate which will show you results & errors of your operation.<br>
 - While exporting data through dataloader, it is allowing you to select which fields you want to export for any object also allow you to add any filter condition.<br>
 - While importing data you can save .sdl mapping file into dataloader.
@@ -706,8 +706,12 @@ Data from tracking actions across multiple channels, including purchase history,
 What is Contextual data?<br>
 Contextual data delivers information about the moment a subscriber opens an email, including device, location, date, time, or weather.
 
-What is email template?<be>
-Email template is a foundation and structure of your email message.
+What is email template?<br>
+Email template is a foundation and structure of your email message. Four types of email templates are available in salesforce:<br>
+- Text
+- HTML (Edit HTML Templates permission requires)
+- Custom HTML (Edit HTML Templates permission requires)
+- Visulforce (Only administrators and developers can create this)
 
 What is Setup Assistant?<br>
 Setup Assistant is a prioritized account configuration checklist that guides you through the essential steps to set up your Marketing Cloud account. It provides links to relevant documentation and resources to help you complete each task.
