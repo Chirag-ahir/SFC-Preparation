@@ -815,3 +815,6 @@ What is fiscal year?<br>
 Starting and end date of a company financial year is considered as Fiscal year. Two types of fiscal year:<br>
 - Standard fiscal year
 - Custom fiscal year
+
+What is enhanced list view?<br>
+In the list views we can modify multiple record fields at once without going to each record page one by one using Enhanced list view. All records should belong to same record type in the list view.
