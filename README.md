@@ -742,7 +742,7 @@ For which data types we can enable external id?<br>
 - Email
 
 What are Dynamic dashboards?<br>
-Dynamic dashboards are used to display information which is tailored to specific user. 
+Dynamic dashboards are used to display information which is tailored to specific user. It's not possible to schedule a dynamic dashboard because whenever we open the dashboard, it will show the data generated in real time. 
 
 What are different dashboard components are available?<br>
 - Charts
