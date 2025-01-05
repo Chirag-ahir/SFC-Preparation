@@ -19,7 +19,7 @@ What is salesforce?<br>
 Salesforce is a cloud-based CRM platform that helps business to manage their sales, marketing and customer service activities. 
 
 What is case?<br>
-A case is a customizable record in Salesforce that tracks and describes a customer issue, complaint or request. It's a foundation of the Service Cloud.
+Case is a standard object used in salesforce to represent query, question, or any open ticket for your customers. It's a foundation of the Service Cloud.
 
 What is object?<br>
 Objects are database tables that allow you to store data specific to your organization.
@@ -62,7 +62,7 @@ Data Loader is a client application for the bulk import or export of data. It su
 
 What are two ways to import data into SFC?<br>
 Data import wizard (Setup > Data import wizard - Supports <= 50000 Records)<br>
-Data loader (Client application - supports 5M+ data)
+Data loader (Client application - supports upto 5M+ data)
 
 What are two ways to export data into SFC?<br>
 Data export wizard (You can export data once in a week or monthly)<br>
@@ -167,7 +167,7 @@ What is lead assignment rules?<br>
 Lead Assignment Rules are used to automatically assign lead records to a particular user or queue based on different conditions.
 
 What is campaign?<br>
-Campains are outbound marketing projects that we can manage, plan and track using marketing marketing intiatives. It is a collection of Leads and Contacts who have been introduced to specific advertising messages.
+A salesforce campaign is a group of leads and contacts exposed to specific marketing communication. 
 
 What is Account?<br>
 Account is a standard object where we storing customer, prospect and partners data. Acccount contains data of leads and contacts. 
