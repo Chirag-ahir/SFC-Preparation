@@ -810,3 +810,8 @@ Salesforce Process Builder is an automated tool that allows you to control the o
 How many fields we can create on an object?<br>
 Professional: 100<br>
 Unlimited: 500<br>
+
+What is fiscal year?<br>
+Starting and end date of a company financial year is considered as Fiscal year. Two types of fiscal year:<br>
+- Standard fiscal year
+- Custom fiscal year
