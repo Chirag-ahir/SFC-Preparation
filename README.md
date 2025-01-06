@@ -838,3 +838,12 @@ Health Check is a dashboard that lets you see how closely the security settings 
 
 What is Apex trigger?<br>
 Trigger is a procedure in database which automatically invokes whenever a special events in database occures. 
+
+What is salesforce flow?<br>
+Salesforce Flow is a tool that automates business processes and collects data from users in Salesforce, 6 main types of flows:<br>
+- Screen Flow
+- Reecord-Triggered Flow
+- Schedule-Triggered flow
+- Platform Event-Triggered Flow
+- Autolaunched Flow
+- Record-Triggered Orchestration
