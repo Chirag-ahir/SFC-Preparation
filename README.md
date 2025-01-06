@@ -833,3 +833,6 @@ What are the four licenses for service cloud?<br>
 - Chat User
 - Customer Community
 
+What is Health Check?<br>
+Health Check is a dashboard that lets you see how closely the security settings of your org align with the settings recommended by Salesforce. Performing a healthcheck allows you to make sure you are getting the most out of the system, and business requirements are aligned to salesforce.
+
