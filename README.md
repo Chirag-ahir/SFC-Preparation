@@ -847,3 +847,8 @@ Salesforce Flow is a tool that automates business processes and collects data fr
 - Platform Event-Triggered Flow
 - Autolaunched Flow
 - Record-Triggered Orchestration
+
+What are different flow elements are present?<br>
+- Interaction elements - Screen, Action. Subflow
+- Logic elements - Assignment, Decision, Loop
+- Data elements - Create records, Update records, Get records, Delete records, Rollback records
