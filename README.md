@@ -836,6 +836,9 @@ What are the four licenses for service cloud?<br>
 What is Health Check?<br>
 Health Check is a dashboard that lets you see how closely the security settings of your org align with the settings recommended by Salesforce. Performing a healthcheck allows you to make sure you are getting the most out of the system, and business requirements are aligned to salesforce.
 
+What is Macro?<br>
+A macro is a set of instructions that automates common tasks such as sending email, closing case, creating tasks. It saving time and efforts of service reps.
+
 What is Apex trigger?<br>
 Trigger is a procedure in database which automatically invokes whenever a special events in database occures. 
 
