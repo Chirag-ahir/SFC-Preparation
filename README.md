@@ -16,7 +16,7 @@ What Is a Sales Pipeline?<br>
 A sales pipeline is a visual representation of where all of your prospects are in the sales process.
 
 What is salesforce?<br>
-Salesforce is a cloud-based CRM platform that helps business to manage their sales, marketing and customer service activities. 
+Salesforce is a cloud-based CRM platform which provides 360* view of customer data that helps business to manage their sales, marketing and customer service activities. It was originally founded by Marc Benioff.  
 
 What is case?<br>
 Case is a standard object used in salesforce to represent query, question, or any open ticket for your customers. It's a foundation of the Service Cloud.
