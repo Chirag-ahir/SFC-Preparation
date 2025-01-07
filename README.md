@@ -1,16 +1,18 @@
 # SFC-Preparation
 
 What is salesforce?<br>
-Salesforce is a suite of CRM products and tools such as sales cloud, service cloud, and marketing cloud which provides 360* view of customer data at one place and helps company t grow business revenue. It was originally founded by Marc Benioff.  
+Salesforce is a suite of CRM products and tools such as sales cloud, service cloud, and marketing cloud which provides 360* view of customer data at one place and helps company to grow business revenue. It was originally founded by Marc Benioff.  
 
 What is Service Cloud?<br>
 Service Cloud is a CRM platform designed to support and enhance customer service operations, It includes objects such as Cases, Assets, Knowledge Base, Entitlements and Functionality such as Service Console, Web-to-Case, Email-to-Case, Escalation Rules and Omni Channel. (Solutions are not available in lightning and will not be available)
 
-How many objects you can create in unlimited edition?<br>
-2000 custom object and 100 object you can install via AppExchange
+How many custom objects we can create in org?<br>
+- Development:400
+- Enterprise: 200
+- Unlimited: 2000
 
 What is sales?<br>
-Sell your product to prospects is known as sales.
+Sell your product to your prospects is known as sales.
 
 What is sales process?<br>
 A sales process maps out the stages an opportunity follows through its sales cycle, affecting what’s available to view in a sales path. Within a specific sales process, you can easily add and remove stages.
@@ -23,16 +25,15 @@ Case is a standard object used in salesforce to represent query, question, or an
 
 What is object?<br>
 Objects are database tables that allow you to store data specific to your organization.
-
-[Table in DB represent as a object for SFC]
-[Column in table represent as a field for SFC]
-[Row is table represnt as a record for SFC]
+- [Table in DB represent as a object for SFC]
+- [Column in table represent as a field for SFC]
+- [Row is table represnt as a record for SFC]
 
 What is a standard object?<br>
 Standard objects are objects that are included with Salesforce. Common business objects like Account, Contact, Lead, and Opportunity are all standard objects.
 
 What is a custom object?<br>
-Custom objects are objects that you create to store information that’s specific to your company or industry. For DreamHouse, D’Angelo wants to build a custom Property object that stores information about the homes his company is selling.
+Custom objects are objects that you create to store information that’s specific to your company or organization. For DreamHouse, D’Angelo wants to build a custom Property object that stores information about the homes his company is selling.
 
 What is lightning object creator?<br>
 Lightning Object Creator can automatically map spreadsheet columns to fields and create relationships between objects. Lightning Object Creator can be used to create a custom object from a spreadsheet and import records at the same time.
