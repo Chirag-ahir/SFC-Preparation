@@ -878,4 +878,6 @@ Escalation rules are rules that automatically escalate cases if they have not be
 What is salesforce optimizer? <br>
 Salesforce Optimizer is a tool that analyzes your salesforce implementation across miultiple features such as security health check scores, API usage limit, field usage and provides recommandations for improvement. 
 
-
+What is the differences between Page Layouts and Record Types?<br>
+- Page Layouts determines which fields are displayed to your users on a record. They also allow you to add fields, sections, custom buttons, and other features to a record page.
+- Record Types, on the other hand, let you offer different business processes, picklist values, and Page Layouts to your users. For example, one of the most common use cases of Record Types would be to create two different sales processes on the Opportunity object. Each with different sales stages and Page Layouts.
