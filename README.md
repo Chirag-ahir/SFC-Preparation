@@ -107,7 +107,7 @@ No user can restrict the acess of user that he has got from profile using permis
 One user only assign to one profile, <br>
 But one user can be assigned to multiple permission sets.
 
-One permission set can be assigned to 1000 users only.
+We can create 1000 permiaaion sets, One permission set can be assigned to 1000 users only.
 
 Is it possible to delete a user from SFC completely?<br>
 You can not delete a user completely at all from SFC, It's not allowed to delete a user from SFC in any org. But you can revoke the access of user by making that user inactive (Setup > Users > User > Uncheck active box)
@@ -374,6 +374,10 @@ Go to particular object > Field & Relationships > Deleted fields<br>
 
 How many duplicate rules we can create on object ?<br>
 You can use up to five active duplicate rules per object.
+
+What is field history tracking?<br>
+Field History Tracking is a feature that allows users to track changes to field values. It records the date and time of a change, the user who made the change, and the old and new values.
+- 
 
 How many fields you can track of object using field history tracking?<br>
 20 fields per object (Retention period is 18 months)
