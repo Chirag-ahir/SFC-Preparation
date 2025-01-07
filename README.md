@@ -72,7 +72,7 @@ Data export wizard (You can export data once in a week or monthly)<br>
 Data loader (As many as you want but not works in professional edition)
 
 What is validation rules?<br>
-Validation rule used to validate data when entering data into salesforce.
+Validation rule is a formula that validates the data entered by a user and prevents the record from being saved if the data does not meet certain criteria.
 
 What is user license in SFC?<br>
 User license defines which type of functionality user can access in salesforce.
