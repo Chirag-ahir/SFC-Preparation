@@ -1,5 +1,8 @@
 # SFC-Preparation
 
+What is salesforce?<br>
+Salesforce is a suite of CRM products and tools such as sales cloud, service cloud, and marketing cloud which provides 360* view of customer data at one place and helps company t grow business revenue. It was originally founded by Marc Benioff.  
+
 What is Service Cloud?<br>
 Service Cloud is a CRM platform designed to support and enhance customer service operations, It includes objects such as Cases, Assets, Knowledge Base, Entitlements and Functionality such as Service Console, Web-to-Case, Email-to-Case, Escalation Rules and Omni Channel. (Solutions are not available in lightning and will not be available)
 
@@ -14,9 +17,6 @@ A sales process maps out the stages an opportunity follows through its sales cyc
 
 What Is a Sales Pipeline?<br>
 A sales pipeline is a visual representation of where all of your prospects are in the sales process.
-
-What is salesforce?<br>
-Salesforce is a cloud-based CRM platform which provides 360* view of customer data that helps business to manage their sales, marketing and customer service activities. It was originally founded by Marc Benioff.  
 
 What is case?<br>
 Case is a standard object used in salesforce to represent query, question, or any open ticket for your customers. It's a foundation of the Service Cloud.
@@ -41,6 +41,9 @@ What is list view in SFC?
 A list view is a filtered list of records where you can view records for one object at a time. For example, a list of Contacts, Accounts, or Opportunities.
 
 Modify list view of object: https://youtu.be/PjiSTxBWcrk?si=UWXs9AOtFnbGTDSV&t=850
+
+What is assignment rules?<br>
+Assignment rules in salesforce is a feature that automatically assigns leads and cases to users or queues baseed on specific criteria. There can be only one active assignment rule at a time.
 
 What is Record ID in salesforce?<br>
 Record Ids are the 15 Digit unique values for each record in Salesforce.
@@ -238,9 +241,6 @@ How many users we can add at once in salesforce?<br>
 
 What is queues?<br>
 Queues are automatically prioritize your support/sales team’s workload by creating lists from which specific agents can jump in to resolve certain types of cases based on category. To efficiently distribute cases and get the right people involved for quicker resolution, creating queues that group support agents by expertise or function and utilizing assignment rules to automatically route cases to the appropriate queues is recommended. This approach streamlines case distribution, ensuring cases are handled by agents best equipped to resolve them promptly.
-
-What is assignmennt rules?<br>
-Assignment rules automatically assign incoming cases to specific agents so that the right people work on the right cases.
 
 What is Big deal alerts?<br>
 Big Deal Alerts automatically email your users whenever an opportunity reaches a threshold of amount and probability.
