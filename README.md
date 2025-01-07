@@ -744,8 +744,8 @@ What is the difference betwen Roles and Profiles?<br>
 What is object relationships in salesforce?<br>
 Object relationships is used to link custom object records to standard object records in a related list.
 
-What are workflows?<br>
-Workflow is an automation tool used to automate the business processes such as email alert, field update, task creation and outbound message. Workflows are stored into workflow object.
+What are Workflow Rules?<br>
+Workflow Rules is an automation tool used to automate the business processes such as email alert, field update, task creation and outbound message. Workflows are stored into workflow object.
 
 What is External ID in salesforce?<br>
 An External ID is a custom field which can be used as a unique identifier in a record. They are basically just IDs which are mainly used while importing records/data.
