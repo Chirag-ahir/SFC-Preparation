@@ -872,4 +872,9 @@ What is manual sharing?<br>
 Manual sharing is a way of granting access to individual records by manually sharing them with other users,roles or groups.  
 
 What is Escalation rules? <br>
-Escalation rules are rules that automatically escalate cases if they have not been resolved within a certain time frame or meet certain criteria such as priority or status. 
+Escalation rules are rules that automatically escalate cases if they have not been resolved within a certain time frame or meet certain criteria such as priority or status.
+
+What is salesforce optimizer? <br>
+Salesforce Optimizer is a tool that analyzes your salesforce implementation across miultiple features such as security health check scores, API usage limit, field usage and provides recommandations for improvement. 
+
+
