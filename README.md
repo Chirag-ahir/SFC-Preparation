@@ -849,7 +849,7 @@ What is Apex trigger?<br>
 Trigger is a procedure in database which automatically invokes whenever a special events in database occures. 
 
 What is salesforce flow?<br>
-Salesforce Flow is a tool that automates business processes and collects data from users in Salesforce, 6 main types of flows:<br>
+A flow is an automation tool that allows you to create processes that perform actions based on user input or record changes, 6 main types of flows:<br>
 - Screen Flow
 - Reecord-Triggered Flow
 - Schedule-Triggered flow
@@ -864,3 +864,8 @@ What are different flow elements are present?<br>
 
 What are flow resources we can create using flow builder?<br>
 Variable, Constant, Formula, Text Template, Choice, Stage, Record choice set, Picklist choice set
+
+What is Process Builder?<br>
+A Process Builder is an automation tool that allows you to create processes that perform actions based on certain criteria. 
+
+
