@@ -376,8 +376,10 @@ How many duplicate rules we can create on object ?<br>
 You can use up to five active duplicate rules per object.
 
 What is field history tracking?<br>
-Field History Tracking is a feature that allows users to track changes to field values. It records the date and time of a change, the user who made the change, and the old and new values.
-- 
+Field History Tracking is a feature that allows users to track changes to field values. It records the date and time of a change, the user who made the change, and the old and new values.<br>
+- You can track upto 20 fields per object using field history tracking.
+- It doesn't support fields that show decimal values, like currency and percent fields.
+- The data retention period is 18 months.
 
 How many fields you can track of object using field history tracking?<br>
 20 fields per object (Retention period is 18 months)
