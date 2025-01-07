@@ -38,7 +38,7 @@ Custom objects are objects that you create to store information that’s specifi
 What is lightning object creator?<br>
 Lightning Object Creator can automatically map spreadsheet columns to fields and create relationships between objects. Lightning Object Creator can be used to create a custom object from a spreadsheet and import records at the same time.
 
-What is list view in SFC?
+What is list view?<br>
 A list view is a filtered list of records where you can view records for one object at a time. For example, a list of Contacts, Accounts, or Opportunities.
 
 Modify list view of object: https://youtu.be/PjiSTxBWcrk?si=UWXs9AOtFnbGTDSV&t=850
