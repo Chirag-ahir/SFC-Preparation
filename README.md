@@ -884,3 +884,6 @@ What is the differences between Page Layouts and Record Types?<br>
 
 What are lightning components?<br>
 Lightning Components are reusable, self-contained units that are used to create user interfaces (UIs) for mobile and desktop applications in Salesforce.
+
+What is Experience Cloud?<br>
+Salesforce Experience Cloud is a digital experience platform (DXP) that helps business to create customer-centric digital experiences. It is a way to allow your customers and partners to access your Salesforce org. Separate license is required to access experience cloud.
