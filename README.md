@@ -887,3 +887,6 @@ Lightning Components are reusable, self-contained units that are used to create 
 
 What is Experience Cloud?<br>
 Salesforce Experience Cloud is a digital experience platform (DXP) that helps business to create customer-centric digital experiences. It is a way to allow your customers and partners to access your Salesforce org. Separate license is required to access experience cloud.
+
+What is the difference between managed package and unmanaged package?<br>
+In Salesforce, the main difference between managed and unmanaged packages is that managed packages are more secure and controlled, while unmanaged packages are more flexible and customizable
