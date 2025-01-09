@@ -890,3 +890,7 @@ Salesforce Experience Cloud is a digital experience platform (DXP) that helps bu
 
 What is the difference between managed package and unmanaged package?<br>
 In Salesforce, the main difference between managed and unmanaged packages is that managed packages are more secure and controlled, while unmanaged packages are more flexible and customizable
+
+
+What is use of muting permission set in permission set group<br>
+By Adding Muting Permission in permission set group we can switch off/turn off/remove particular permission/Setting within a group without affecting the rest of the permission sets within the group
