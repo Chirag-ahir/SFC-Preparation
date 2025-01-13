@@ -9,6 +9,9 @@ Service Cloud is a CRM platform designed to support and enhance customer service
 What is Service Console?<br>
 Service Console is a Salesforce app that provides a unified interface for agents to manage multiple customer interactions and records at once.
 
+What is Omni Channel?<br>
+Omni Channel is a powerful customer service feature that helps route various types of work items (like cases, leads, chats, and tasks) to the most suitable, available agents in real time. 
+
 How many custom objects we can create in org?<br>
 - Development:400
 - Enterprise: 200
