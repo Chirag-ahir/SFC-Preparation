@@ -6,6 +6,9 @@ Salesforce is a suite of CRM products and tools such as sales cloud, service clo
 What is Service Cloud?<br>
 Service Cloud is a CRM platform designed to support and enhance customer service operations, It includes objects such as Cases, Assets, Knowledge Base, Entitlements and Functionality such as Service Console, Web-to-Case, Email-to-Case, Escalation Rules and Omni Channel. (Solutions are not available in lightning and will not be available)
 
+What is Service Console?<br>
+Service Console is a Salesforce app that provides a unified interface for agents to manage multiple customer interactions and records at once.
+
 How many custom objects we can create in org?<br>
 - Development:400
 - Enterprise: 200
