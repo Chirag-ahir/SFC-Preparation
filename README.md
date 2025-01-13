@@ -898,3 +898,6 @@ In Salesforce, the main difference between managed and unmanaged packages is tha
 
 What is use of muting permission set in permission set group<br>
 By Adding Muting Permission in permission set group we can switch off/turn off/remove particular permission/Setting within a group without affecting the rest of the permission sets within the group
+
+What is Login History?<br>
+Login History is a feature that shows information about each login attempt for users in your org, such as the date and time, the username, the source IP address, the login type, and the status of the login. 
