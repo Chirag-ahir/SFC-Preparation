@@ -901,3 +901,6 @@ By Adding Muting Permission in permission set group we can switch off/turn off/r
 
 What is Login History?<br>
 Login History is a feature that shows information about each login attempt for users in your org, such as the date and time, the username, the source IP address, the login type, and the status of the login. 
+
+What is Data Migration?<br>
+Data migration in Salesforce involves transferring data from external sources or legacy systems into Salesforce using tools like Data Loader, Sandbox or Salesforce's Data Import Wizard.
