@@ -830,8 +830,10 @@ What is process builder?<br>
 Salesforce Process Builder is an automated tool that allows you to control the order of actions or evaluate the criteria for a record. 
 
 How many fields we can create on an object?<br>
-Professional: 100<br>
+Developer: 500<br>
+Exterprise: 100<br>
 Unlimited: 500<br>
+Professional: 100<br>
 
 What is fiscal year?<br>
 Starting and end date of a company financial year is considered as Fiscal year. Two types of fiscal year:<br>
