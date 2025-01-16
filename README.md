@@ -909,3 +909,8 @@ Login History is a feature that shows information about each login attempt for u
 
 What is Data Migration?<br>
 Data migration in Salesforce involves transferring data from external sources or legacy systems into Salesforce using tools like Data Loader, Sandbox or Salesforce's Data Import Wizard.
+
+How to remove app from certain profile?<br>
+You can manage access for app by going to Profile > Assigned App/Custom App Settings/Standard App Setings (Visible/Default)<br>
+You can manage access for app by going to App Manager > Particular App > Select Which Profiles should have access to this app.<br>
+https://youtu.be/9RgZzHSt9KQ?si=qPKOiBKhTixmKrzi
