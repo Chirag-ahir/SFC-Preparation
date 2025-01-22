@@ -917,3 +917,6 @@ How to remove app from certain profile?<br>
 You can manage access for app by going to Profile > Assigned App/Custom App Settings/Standard App Setings (Visible/Default)<br>
 You can manage access for app by going to App Manager > Particular App > Select Which Profiles should have access to this app.<br>
 https://youtu.be/9RgZzHSt9KQ?si=qPKOiBKhTixmKrzi
+
+What is lookup filters?<br>
+Lookup filters limit the records available in the lookup field.
