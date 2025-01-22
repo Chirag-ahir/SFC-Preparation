@@ -919,4 +919,4 @@ You can manage access for app by going to App Manager > Particular App > Select 
 https://youtu.be/9RgZzHSt9KQ?si=qPKOiBKhTixmKrzi
 
 What is lookup filters?<br>
-Lookup filters limit the records available in the lookup field.
+Lookup filters limit the records available in the lookup field. It only shows values in lookup dialog that match the lookup filter criteria.
