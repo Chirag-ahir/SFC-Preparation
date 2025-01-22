@@ -12,6 +12,9 @@ Service Console is a Salesforce app that provides a unified interface for agents
 What is Omni Channel?<br>
 Omni Channel is a powerful customer service feature that helps route various types of work items (like cases, leads, chats, and tasks) to the most suitable, available agents in real time. 
 
+What is company setting?<br>
+Company settings in Salesforce are a collection of information about your organization. They include details like your company's name, address, no. of license, and primary contact.
+
 How many custom objects we can create in org?<br>
 - Development:400
 - Enterprise: 200
