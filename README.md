@@ -58,7 +58,7 @@ Assignment rules in salesforce is a feature that automatically assigns leads and
 What is Record ID in salesforce?<br>
 Record Ids are the 15 Digit unique values for each record in Salesforce.
 
-What is Schema Builder?
+What is Schema Builder?<br>
 Schema Builder is a tool that lets you visualise and edit your company data model. It’s useful for designing and understanding complex data models like the company’s employees and all sales (Setup > Schema Builder)
 - You can delete the object
 - You can delete the field
