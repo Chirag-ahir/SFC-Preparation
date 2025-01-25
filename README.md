@@ -264,14 +264,13 @@ View, Edit and Manage
 
 What is report in salesforce?<br>
 Reports in Salesforce are powerful tools that help users analyze and visualize their data. They allow users to summarize, filter, and organize data to gain valuable insights, track performance, and support informed decision-making.
--- We can add 20 filters in report<br>
--- We can add max 256 columns in report<br>
--- Report can display max 2000 records<br>
--- In joined report we can add 5 blocks<br>
+- We can add 20 filters in report
+- We can add max 256 columns in report
+- Report can display max 2000 records
+- In joined report we can add 5 blocks<br>
 
 What is customer report?<br>
 The Customer Report in Salesforce is a type of report that focuses on customer data and interactions. It typically includes information about customer accounts, contacts, activities, and history of interactions. <br> Customer reports in Salesforce can be classified based on various criteria such as:<br>
-
 - Activity Reports: Detailing customer interactions like calls, emails, and meetings.<br>
 - Sales Reports: Tracking sales activities, opportunities, and revenue from customers.<br>
 - Service Reports: Focusing on customer service metrics and case management.<br>
