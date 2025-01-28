@@ -223,6 +223,8 @@ If you have a two different content or two different email and you want to see w
 What is record types?<br>
 Record types determine the business processes, picklist values, and page layouts that are available to you when creating records.
 
+Set deafault record type on profile - https://youtu.be/3r5eVgEfuNA?si=vGrxzEUmS4xFLEPP
+
 What is partner in SFC?<br>
 Partners are the companies with which you collaborate to close your sales deals
 
