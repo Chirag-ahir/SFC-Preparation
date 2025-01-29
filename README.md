@@ -933,3 +933,6 @@ On which objects Forecast supported?<br>
 
 How many Forecasts you can activate in org? 
 You can activate up to 4. 
+
+What is Einstein Lead Scoring?<br>
+Einstein Lead Scoring helps your sales team to easily priotrize their beat leads. It finds the patterns in your successful lead conversion history and determines which of your current leads match those patterns best. 
