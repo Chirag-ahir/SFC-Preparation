@@ -924,3 +924,12 @@ Lookup filters limit the records available in the lookup field. It only shows va
 
 What are duplicate rules? <br>
 Duplicate Rules are configurations that help identify and manage dupkicate records within salesforce system, Salesforce provides duplicate rules for accounts, contacts and leads. You can alert the user, block the creation of duplicate records or allowing the creation with a warning. 
+
+
+On which objects Forecast supported?<br>
+- Opportunity
+- Opportunity Product
+- Line Item Schedule
+
+How many Forecasts you can activate in org? 
+You can activate up to 4. 
