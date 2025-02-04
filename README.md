@@ -73,9 +73,10 @@ Data Loader is a client application for the bulk import or export of data. It su
 - Data Loader supports DD-MM-YYYY date formats for date based values.
 - Watch complete video here: https://youtu.be/fnPXaq5A-2c?si=j1DbTCtQIBa7ec3r
 
-What are two ways to import data into SFC?<br>
-Data import wizard (Setup > Data import wizard - Supports <= 50000 Records)<br>
-Data loader (Client application - supports upto 5M+ data)
+What are ways to import data into SFC?<br>
+- Data import wizard (Setup > Data import wizard - Supports <= 50000 Records)
+- Data loader (Client application - supports upto 5M+ data)
+- Workbench (Supports upto 5M records)
 
 What are two ways to export data into SFC?<br>
 Data export wizard (You can export data once in a week or monthly)<br>
