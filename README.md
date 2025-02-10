@@ -261,7 +261,7 @@ What is Big deal alerts?<br>
 Big Deal Alerts automatically email your users whenever an opportunity reaches a threshold of amount and probability.
 
 What is dashboard?<br>
-A dashboard is a visual representation of salesforce data from one or more salesforce reports that helps users to identify trends and patterns to make informed business decisions. We can add 20 different components in dashboard.
+A dashboard is a visual representation of salesforce data from one or more salesforce reports that helps users to identify trends and patterns to make informed business decisions. We can add 25 different components in dashboard.
 
 What access we can give in salesforce dashboard folder?<br>
 View, Edit and Manage
