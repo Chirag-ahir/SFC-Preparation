@@ -149,6 +149,7 @@ What are different levels of Data level security?<br>
     - Object > Field-Level Security (Visible & Read-Only) <br>
     - Schema Builder > Right click on field > Field Permissions (Visible & Read-Only) <br>
     - “Field Accessibility” is a one place to set security for all profile at once<br>
+    - Lightning Page Editor (Required & Read-Only)
 4. Record level security: Three permission: (Public read/write + Public read only + Private)<br>
     - Four level<br>
     - Organization wide default (Baseline level of access) (Private, Public Read Only, Public Read/Write, Public Read/Write/Transfer, Controlled by parent) <br>
