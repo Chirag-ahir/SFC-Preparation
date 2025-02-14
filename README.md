@@ -938,3 +938,6 @@ You can activate up to 4.
 
 What is Einstein Lead Scoring?<br>
 Einstein Lead Scoring helps your sales team to easily priotrize their beat leads. It finds the patterns in your successful lead conversion history and determines which of your current leads match those patterns best. 
+
+What is field set in salesforce?<br>
+Field set" is a collection of fields from a single object that are grouped together, It provides you way to reuse a specific set of fields without having to redefine them multiple times across different components. 
