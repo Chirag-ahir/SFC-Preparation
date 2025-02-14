@@ -941,3 +941,6 @@ Einstein Lead Scoring helps your sales team to easily priotrize their beat leads
 
 What is field set in salesforce?<br>
 Field set" is a collection of fields from a single object that are grouped together, It provides you way to reuse a specific set of fields without having to redefine them multiple times across different components. 
+
+What are restriction rules?<br>
+Restriction rules filter the records that a user has access to so that they can access only the records that match the criteria you specify
