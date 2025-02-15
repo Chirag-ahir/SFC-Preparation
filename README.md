@@ -944,3 +944,8 @@ Field set" is a collection of fields from a single object that are grouped toget
 
 What are restriction rules?<br>
 Restriction rules filter the records that a user has access to so that they can access only the records that match the criteria you specify
+
+What is truncating of custom object?<br>
+Truncating custom objects is a way to permanently remove all of the records from a custom object, while keeping the object and its metadata intact for future use. Only supported in classic. First you need to enable permission from User Interface --> Enable Truncate Custom Object<br>
+
+![image](https://github.com/user-attachments/assets/e7c8e757-f008-4c0c-9fd5-13ece50cfb36)
