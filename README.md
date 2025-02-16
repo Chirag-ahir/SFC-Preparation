@@ -538,6 +538,7 @@ First you need to make sure that reports you are deleting is not used by any das
 
 What objects are supported in Mass Delete Records?<br>
 - Accounts | Leads | Activities | Contacts | Cases | Solutions | Products | Reports
+- You can delete up to 250 records at once using mass delete records
 
 ![image](https://github.com/user-attachments/assets/6d0f7f1a-cd03-4e0f-a32b-7d8425134482)
 
@@ -832,9 +833,10 @@ Is it possible to insert Null values inside Data loader?<br>
 Yes, There is a option in Data loader settings to enable checkbox of "Insert null values" to allow dataloader to insert null values into salesforce otherwise it will not insert null values.
 
 What are ways we can make field as required?<br>
-- While creating of field
-- Validation rules
-- Page layout
+- By going to a particular field -> Required Checkbox
+- By going to the page layout (Required/Read-Only)
+- By using the validation rule
+- By using the lightning record page by checking the “Required” checkbox in field properties
 
 What is conditional highlighting?<br>
 Conditional Highlightning is a powerful way to show values in report within givn limits. Using conditional highlightning, we can specify colors for different ranges of values in reports.
@@ -966,3 +968,7 @@ What is truncating of custom object?<br>
 Truncating custom objects is a way to permanently remove all of the records from a custom object, while keeping the object and its metadata intact for future use. Only supported in classic. First you need to enable permission from User Interface --> Enable Truncate Custom Object<br>
 
 ![image](https://github.com/user-attachments/assets/e7c8e757-f008-4c0c-9fd5-13ece50cfb36)
+
+How do you switch the view of the salesforce profile to Enhanced Profile User Interface? <br>
+Setup > User Management Settings > Enhance Profile View
+
