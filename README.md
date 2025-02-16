@@ -438,7 +438,7 @@ Can you give me real time example of self relationship.<br>
 On account object there is a field called parent account which is lookup to account. it is one type of self relationship which is used for denoting parent account (e.g, one company might have it’s parent company) 
 
 Can you give example of roll up summary field.<br>
-You can use roll up summary field on account to see total count of opportunities on particular account. 
+You can use roll up summary field on account to see total count of opportunities on particular account. We can create max 40 roll-up summary fields on master-detail.
 
 What is web to lead in salesforce?<br>
 Salesforce Web-to-Lead is a powerful tool that allows businesses to capture leads from their website and store them in Salesforce.
