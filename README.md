@@ -232,6 +232,8 @@ Partners are the companies with which you collaborate to close your sales deal
 
 What is dependent picklist?<br>
 A dependent picklist is a custom or multi-select picklist for which the valid values depend on the value of another field, called the controlling field.
+- Standard Picklist, Custom Picklist, Standard Checkbox and Custom Checkbox can be on the Controlling side. 
+- Custom picklists and Custom Multi-select Picklists can be on the dependent side. 
 
 What is assignment rule?<br>
 Assignment rules define conditions that determine how leads or cases are processed. 
@@ -272,6 +274,21 @@ Reports in Salesforce are powerful tools that help users analyze and visualize t
 - We can add max 256 columns in report
 - Report can display max 2000 records
 - In joined report we can add 5 blocks<br>
+
+How many types of reports do we have in Salesforce? 
+Standard and Custom
+
+How many report types do we have in Salesforce? 
+We have two report types in Salesforce 
+- Standard Report Type 
+- Custom Report Type
+
+How many types of report formats do we have in Salesforce? 
+We have four report formats available in Salesforce
+- Tabular 
+- Summary 
+- Matrix 
+- Joined
 
 What is customer report?<br>
 The Customer Report in Salesforce is a type of report that focuses on customer data and interactions. It typically includes information about customer accounts, contacts, activities, and history of interactions. <br> Customer reports in Salesforce can be classified based on various criteria such as:<br>
