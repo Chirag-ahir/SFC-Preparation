@@ -972,3 +972,5 @@ Truncating custom objects is a way to permanently remove all of the records from
 How do you switch the view of the salesforce profile to Enhanced Profile User Interface? <br>
 Setup > User Management Settings > Enhance Profile View
 
+Is there any way we can see which orgs with our email is connected? 
+welcome.salesforce.com
