@@ -585,7 +585,7 @@ NPS (Net Promoter Score) is a cutomer loyalti metric that measures how likely a 
 What is sales contract?<br>
 A sales contract is an agreement between a buyer and a seller. The seller agrees to deliver a product or service for a set price that the buyer agrees to pay.
 
-What is Opportunity Teams?
+What is Opportunity Teams?<br>
 Opportunity Teams are designed to facilitate collaboration on specific sales deals (opportunities). They enable multiple users to work together to close a sales opportunity, with each member possibly playing a different role in the sales process.
 
 What is OpportunityTeamMember?<br>
