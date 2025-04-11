@@ -974,3 +974,6 @@ Setup > User Management Settings > Enhance Profile View
 
 Is there any way we can see which orgs with our email is connected? 
 welcome.salesforce.com
+
+What is workbench?<br>
+Workbench is a web-based tool which helps administrators and developers to interact with Salesforce for Data insert, Update, Upsert, Delete and Export. 
