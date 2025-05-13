@@ -977,3 +977,11 @@ welcome.salesforce.com
 
 What is workbench?<br>
 Workbench is a web-based tool which helps administrators and developers to interact with Salesforce for Data insert, Update, Upsert, Delete and Export. 
+
+How can you ensure duplicate records in system?<br>
+- Duplicate rules<br>
+- Data Import Wizard (when you import data it will not allow duplicates)<br>
+- Sandbox First Approach (Always upload your dat into sandbox first to identify potential duplicates)<br>
+- Third party tools (Such as demand tools & dataloader)<br>
+- Scheduled Reports - Create Scheduled reports for missing data like report of opportunities without next stage, contacts without email.<br>
+- Legacy Ids
