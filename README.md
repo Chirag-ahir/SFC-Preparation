@@ -985,3 +985,6 @@ How can you ensure duplicate records in system?<br>
 - Third party tools (Such as demand tools & dataloader)<br>
 - Scheduled Reports - Create Scheduled reports for missing data like report of opportunities without next stage, contacts without email.<br>
 - Legacy Ids
+
+What is Apex Hammer?<br>
+Before each major service upgrade, Salesforce runs all Apex tests on your behalf through a process called Apex Hammer. This is run across all the orgs.
