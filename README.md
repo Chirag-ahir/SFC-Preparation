@@ -80,7 +80,10 @@ What are ways to import data into SFC?<br>
 
 What are two ways to export data into SFC?<br>
 Data export wizard (You can export data once in a week or monthly)<br>
-Data loader (As many as you want but not works in professional edition)
+Data loader (As many as you want but not works in professional edition)<br>
+Salesforce Inspector Relocaded <br>
+Reports (You can export data in CSV, Excel format ~ limit upto 20,000 records) <br>
+Printable List views 
 
 What is validation rules?<br>
 Validation rule is a formula that validates the data entered by a user and prevents the record from being saved if the data does not meet certain criteria.
