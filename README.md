@@ -77,6 +77,7 @@ What are ways to import data into SFC?<br>
 - Data import wizard (Setup > Data import wizard - Supports <= 50000 Records)
 - Data loader (Client application - supports upto 5M+ data)
 - Workbench (Supports upto 5M records)
+- Salesforce Inspector Reloaded (Supports upto 200 records)
 
 What are two ways to export data into SFC?<br>
 Data export wizard (You can export data once in a week or monthly)<br>
