@@ -307,6 +307,9 @@ Bucket fields in Salesforce reports allow users to categorize report records int
 - Number
 - Text
 
+What is Report Type?<br>
+Report Type is a template that determines which fields and records are available for use when creating a report. 
+
 What is report builder?<br>
 The report builder is a visual drag and drop tool which you use to create reports and edit existing ones. The report builder is where you choose a report type, report format, and the fields that make up your report.
 
