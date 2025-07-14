@@ -995,3 +995,6 @@ How can you ensure duplicate records in system?<br>
 
 What is Apex Hammer?<br>
 Before each major service upgrade, Salesforce runs all Apex tests on your behalf through a process called Apex Hammer. This is run across all the orgs.
+
+What is Credential?<br>
+A credential is a connection between a user and a Salesforce environment. 
