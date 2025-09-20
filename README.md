@@ -998,3 +998,6 @@ Before each major service upgrade, Salesforce runs all Apex tests on your behalf
 
 What is Credential?<br>
 A credential is a connection between a user and a Salesforce environment. 
+
+What is Quick Action?<br>
+A quick action is a type of custom button or link that can create or update records, log calls, send emails, or launch flows from a record page or a global menu. 
