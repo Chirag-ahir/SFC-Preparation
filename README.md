@@ -1,7 +1,10 @@
 # SFC-Preparation
 
 What is salesforce?<br>
-Salesforce is a suite of CRM products and tools such as sales cloud, service cloud, and marketing cloud which provides 360* view of customer data at one place and helps company to grow business revenue. It was originally founded by Marc Benioff.  
+Salesforce is a suite of CRM products and tools such as sales cloud, service cloud, and marketing cloud which provides 360* view of customer data at one place and helps company to grow business revenue. It was originally founded by Marc Benioff. 
+
+What is SFDX?<br>
+Salesforce DX is a set of low-code software development tools for Salesforce Platform, It includes tools like Version control system (VCS), Command-line interface (CLI) tools, Visual Studio Code extension.
 
 What is Service Cloud?<br>
 Service Cloud is a CRM platform designed to support and enhance customer service operations, It includes objects such as Cases, Assets, Knowledge Base, Entitlements and Functionality such as Service Console, Web-to-Case, Email-to-Case, Escalation Rules and Omni Channel. (Solutions are not available in lightning and will not be available)
