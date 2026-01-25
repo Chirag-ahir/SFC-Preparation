@@ -3,6 +3,15 @@
 What is salesforce?<br>
 Salesforce is a suite of CRM products and tools such as sales cloud, service cloud, and marketing cloud which provides 360* view of customer data at one place and helps company to grow business revenue. It was originally founded by Marc Benioff. 
 
+What are some common types of relationships in Salesforce? and how they differ from eachother?<br>
+- Lookup Relationship: This is a loosely coupled relationship where the child record can exist independently of the parent.<br>
+- Master-Detail Relationship: This is a tightly coupled relationship where the child record’s existence depends on the parent, and the child inherits the parent’s ownership and security settings.<br>
+- Junction Object (Many-to-Many): This is used to create a many-to-many relationship between two objects, typically by using a junction object.<br>
+- Self Relationship: This is when an object has a relationship with itself, often used for hierarchies.<br>
+- Hierarchical Relations: This is a special type of relationship on the User object used to link once user with another user.<br>
+- External Lookup: This is used to link Salesforce records to external objects, often stored outside of Salesforce.<br>
+
+
 What is SFDX?<br>
 Salesforce DX is a set of low-code software development tools for Salesforce Platform, It includes tools like Version control system (VCS), Command-line interface (CLI) tools, Visual Studio Code extension.
 
