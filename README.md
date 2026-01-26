@@ -362,8 +362,8 @@ Which URL you need to use for login into Production org and Sandbox?<br>
 Production: You can use https://login.salesforce.com/<br>
 Sandbox: You can use http://test.salesforce.com/
 
-What is Sandbox?<br>
-Sandbox is a copy of the production environment, used for testing and development purposes. Sandbox will automatically gets deleted if no one log into for 180 days.
+What is Sandbox? and how it is different from Production environment? <br>
+Sandbox is a copy of the production environment, used for testing and development purposes. It's completely separete from your Production environment. In the production environment, everything is live and operational, meaning that all your real user data, records, and business processes are active. It’s where users interact with Salesforce on a day-to-day basis while Sandbox is a completely isolated environment from Production. Sandbox will automatically gets deleted if no one log into for 180 days.
 
 How to login to sandbox?<br>
 Users can log into the sandbox at https://test.salesforce.com by appending .sandbox_name to their Salesforce usernames. For example, if a username for a production organization is user1@acme.com, and the sandbox is named “test”, then the modified username to log into the sandbox is user1@acme.com.test.
