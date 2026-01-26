@@ -936,7 +936,7 @@ What is the differences between Page Layouts and Record Types?<br>
 - Record Types, on the other hand, let you offer different business processes, picklist values, and Page Layouts to your users. For example, one of the most common use cases of Record Types would be to create two different sales processes on the Opportunity object. Each with different sales stages and Page Layouts.
 
 What are lightning components?<br>
-Lightning Components are reusable, self-contained units that are used to create user interfaces (UIs) for mobile and desktop applications in Salesforce.
+Salesforce Lightning Components are part of the modern Lightning framework, allowing developers to create reusable, dynamic, and responsive user interface elements. They’re built using JavaScript and the Aura framework. 
 
 What is Experience Cloud?<br>
 Salesforce Experience Cloud is a digital experience platform (DXP) that helps business to create customer-centric digital experiences. It is a way to allow your customers and partners to access your Salesforce org. Separate license is required to access experience cloud.
