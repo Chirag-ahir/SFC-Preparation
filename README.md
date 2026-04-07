@@ -11,6 +11,8 @@ What are some common types of relationships in Salesforce? and how they differ f
 - Hierarchical Relations: This is a special type of relationship on the User object used to link once user with another user.<br>
 - External Lookup: This is used to link Salesforce records to external objects, often stored outside of Salesforce.<br>
 
+What is Polymorphic lookup relationship?<br>
+A polymorphic lookup relationship is a special type of lookup field on Task/Event object that can link a child record to more than one type of parent object using WhoID (Contact or a Lead) and WhatID (Account, Campaign, Case, or Opportunity). We can not create this lookup relationship.
 
 What is SFDX?<br>
 Salesforce DX is a set of low-code software development tools for Salesforce Platform, It includes tools like Version control system (VCS), Command-line interface (CLI) tools, Visual Studio Code extension.
