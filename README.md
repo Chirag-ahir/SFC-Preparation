@@ -925,7 +925,7 @@ What is Process Builder?<br>
 A Process Builder is an automation tool that allows you to create processes that perform actions based on certain criteria. 
 
 What is manual sharing?<br>
-Manual sharing is a way of granting access to individual records by manually sharing them with other users,roles or groups.  
+Manual sharing is a way of granting access to individual records by manually sharing them with other users,roles or groups. When user left the company or deactivated manual sharing will be end.
 
 What is Escalation rules? <br>
 Escalation rules are rules that automatically escalate cases if they have not been resolved within a certain time frame or meet certain criteria such as priority or status.
