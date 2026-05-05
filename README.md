@@ -10,6 +10,8 @@ What are some common types of relationships in Salesforce? and how they differ f
 - Self Relationship: This is when an object has a relationship with itself, often used for hierarchies.<br>
 - Hierarchical Relations: This is a special type of relationship on the User object used to link once user with another user.<br>
 - External Lookup: This is used to link Salesforce records to external objects, often stored outside of Salesforce.<br>
+- Polumorphic Lookup Relationship: Special type of lookup field on Task/Event object that can link a child record to more than one type of parent object using WhoID (Contact or a Lead) and WhatID (Account, Campaign, Case, or Opportunity). <br>
+- Metadata Relationship: Special relationship on Custom Metadata Types that links custom metadata type to another metadata type, entity definition, entity particle, or field definition.
 
 What is Polymorphic lookup relationship?<br>
 A polymorphic lookup relationship is a special type of lookup field on Task/Event object that can link a child record to more than one type of parent object using WhoID (Contact or a Lead) and WhatID (Account, Campaign, Case, or Opportunity). We can not create this lookup relationship.
