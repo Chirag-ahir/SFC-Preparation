@@ -176,6 +176,10 @@ What are different levels of Data level security?<br>
     - Role hierarchy (E.g., Manager will have access to all VP)<br>
     - Sharing rules (Automatically share the rule) (Read Only, Read/Write)<br>
     - Manual sharing (Sharing record manually) (Read Only, Read/Write)<br>
+    - Team Sharing (Sales Teams, Support Teams, Account Teams) (Read Only, Read/Write)<br>
+    - Territory Sharing<br>
+    - Apex Programming Sharing
+    - Profile (View All Data/ Modify All Data)
 
 User management - Manage/Remove person to access org: https://youtu.be/PKpXBb-9s54?si=4PHjSY0aR18I5KMS&t=1274<br>
 Assign Permission set to user: https://youtu.be/4X1xyvon4E8?si=r_oYcviNWcOZqdwI&t=806<br>
