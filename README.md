@@ -910,6 +910,9 @@ A macro is a set of instructions that automates common tasks such as sending ema
 What is Apex trigger?<br>
 Trigger is a procedure in database which automatically invokes whenever a special events in database occures. 
 
+What is Flow Builder?<br>
+Flow Builder is a no-code visual workflow tool which you use to create Flow and edit existing one, it consists of Toolbox, Canvas and Button Bar.
+
 What is salesforce flow?<br>
 A flow is an automation tool that allows you to create processes that perform actions based on user input or record changes, 6 main types of flows:<br>
 - Screen Flow
