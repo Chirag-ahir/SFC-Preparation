@@ -910,6 +910,9 @@ A macro is a set of instructions that automates common tasks such as sending ema
 What is Apex trigger?<br>
 Trigger is a procedure in database which automatically invokes whenever a special events in database occures. 
 
+What is Flow Definition?<br>
+A Flow Definition is the metadata structure that connects all the different versions of a specific flow, tracks which version is currently active, and holds the flow's description
+
 What is Flow Builder?<br>
 Flow Builder is a no-code visual workflow tool which you use to create Flow and edit existing one, it consists of Toolbox, Canvas and Button Bar.
 
