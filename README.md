@@ -71,6 +71,9 @@ Modify list view of object: https://youtu.be/PjiSTxBWcrk?si=UWXs9AOtFnbGTDSV&t=8
 What is assignment rules?<br>
 Assignment rules in salesforce is a feature that automatically assigns leads and cases to users or queues baseed on specific criteria. There can be only one active assignment rule at a time.
 
+<img width="1112" height="152" alt="image" src="https://github.com/user-attachments/assets/07fd7afb-8cfd-40e9-bd8c-40cc003e1576" />
+
+
 What is Record ID in salesforce?<br>
 Record Ids are the 15 Digit unique values for each record in Salesforce.
 
