@@ -1030,3 +1030,6 @@ A credential is a connection between a user and a Salesforce environment.
 
 What is Quick Action?<br>
 A quick action is a type of custom button or link that can create or update records, log calls, send emails, or launch flows from a record page or a global menu. 
+
+What is Share Object?<br>
+Share objects are used to define and manage the sharing of records for both types of objects, ensuring that appropriate access levels are maintained. Share objects allow administrators to control and extend record access beyond the org-wide defaults through sharing rules, manual sharing, and programmatic sharing using Apex.
