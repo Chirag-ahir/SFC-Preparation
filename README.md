@@ -1033,3 +1033,6 @@ A quick action is a type of custom button or link that can create or update reco
 
 What is Share Object?<br>
 Share objects are used to define and manage the sharing of records for both types of objects, ensuring that appropriate access levels are maintained. Share objects allow administrators to control and extend record access beyond the org-wide defaults through sharing rules, manual sharing, and programmatic sharing using Apex.
+
+What is clickjack?<br>
+clickjacking protection is a security measure that can be set up in a Salesforce community to prevent unauthorized redirection of users’ browsers to malicious pages.
